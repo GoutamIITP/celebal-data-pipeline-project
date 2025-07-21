@@ -1,0 +1,1001 @@
+product_id,product_name,category,price,stock_quantity,supplier
+1,Cloned bi-directional circuit,Automotive,300.23,162,Summers Ltd
+2,Monitored upward-trending groupware,Books,626.51,251,Bishop and Sons
+3,Advanced empowering leverage,Toys,396.81,493,"Owen, Simpson and Murray"
+4,Public-key bi-directional policy,Sports,223.71,76,Turner-Evans
+5,Automated 6thgeneration product,Toys,762.94,255,"Tucker, Roberts and Gonzalez"
+6,Reactive multi-state throughput,Sports,434.58,19,"Hart, Golden and Curtis"
+7,Open-source zero tolerance Internet solution,Sports,992.14,490,White-Cummings
+8,Programmable client-driven process improvement,Automotive,482.57,243,"Hamilton, Cooper and Copeland"
+9,Reduced systematic utilization,Automotive,134.34,35,Davis-Johnson
+10,Extended even-keeled open system,Sports,620.57,162,Gonzalez-Patterson
+11,Re-engineered homogeneous framework,Books,834.91,428,"Fowler, Pitts and Scott"
+12,Up-sized disintermediate strategy,Books,232.85,275,Graham PLC
+13,User-friendly bottom-line algorithm,Toys,432.31,46,"Bradley, Williams and Rosario"
+14,Realigned actuating paradigm,Automotive,118.73,27,Banks Group
+15,Multi-layered tangible task-force,Toys,649.56,423,Cantrell LLC
+16,Programmable hybrid database,Electronics,989.6,353,"Lynn, Nichols and Miller"
+17,Devolved transitional data-warehouse,Clothing,255.9,260,Roberson-Meyer
+18,Decentralized executive pricing structure,Sports,195.32,46,"Chambers, Stewart and Eaton"
+19,Multi-layered modular product,Books,580.41,18,Oliver Ltd
+20,Synergized coherent interface,Sports,590.72,18,Clark-Bradshaw
+21,Up-sized next generation moderator,Home & Garden,154.92,149,"Warren, Buchanan and Johnson"
+22,Balanced modular analyzer,Automotive,662.65,291,Williams Ltd
+23,Exclusive well-modulated firmware,Home & Garden,649.54,389,Erickson and Sons
+24,Public-key multimedia algorithm,Books,943.11,395,"Barber, Arnold and Brown"
+25,Down-sized responsive archive,Toys,858.31,410,"Thomas, Johnson and Greene"
+26,Polarized stable superstructure,Electronics,24.64,285,Thompson-Mcintosh
+27,Organic dedicated Internet solution,Electronics,854.5,129,"Adams, Lewis and Martin"
+28,Mandatory needs-based moderator,Clothing,616.63,491,"Ramos, Hubbard and Wong"
+29,De-engineered methodical access,Toys,635.16,439,Barnes Inc
+30,Monitored regional productivity,Books,346.64,357,Miller PLC
+31,Multi-layered secondary Internet solution,Automotive,473.57,442,Robinson Ltd
+32,Total zero-defect monitoring,Toys,946.74,224,Mcbride Ltd
+33,Upgradable global extranet,Toys,813.39,21,Andersen-Rodriguez
+34,Future-proofed actuating protocol,Books,178.4,201,"Brown, Lambert and Moran"
+35,Cross-group secondary focus group,Electronics,504.21,476,Richmond-Miller
+36,Robust modular policy,Automotive,572.4,0,Hall-Mendoza
+37,Progressive context-sensitive system engine,Home & Garden,701.88,427,Green PLC
+38,Open-architected secondary archive,Clothing,239.22,257,Ponce LLC
+39,Managed grid-enabled core,Books,740.99,71,"Schneider, Harding and Torres"
+40,Compatible static adapter,Electronics,436.8,184,Booker-Walsh
+41,Intuitive multimedia access,Home & Garden,304.79,478,Dunn PLC
+42,Fully-configurable local functionalities,Automotive,586.93,91,"Hicks, Wright and Garcia"
+43,Inverse composite functionalities,Books,653.22,277,"Kramer, Ware and Patrick"
+44,Multi-tiered even-keeled parallelism,Sports,616.47,117,Lee-Cisneros
+45,De-engineered zero tolerance strategy,Electronics,204.2,128,Myers Group
+46,Virtual coherent project,Automotive,60.93,358,"Manning, Friedman and Joseph"
+47,Assimilated real-time productivity,Automotive,134.25,401,Anderson Ltd
+48,Front-line tertiary middleware,Toys,524.38,274,Kennedy and Sons
+49,Automated heuristic database,Sports,108.24,427,"Anderson, English and Hunter"
+50,User-friendly impactful help-desk,Automotive,290.74,217,"Mack, Powers and Wise"
+51,Compatible bi-directional productivity,Clothing,735.22,276,Higgins-Lee
+52,Open-source impactful function,Electronics,504.43,2,"Lane, Turner and Martin"
+53,Open-source eco-centric moderator,Toys,867.2,102,"Smith, Jenkins and Church"
+54,Seamless user-facing database,Sports,913.06,1,Kramer-Stone
+55,Customizable bandwidth-monitored workforce,Electronics,934.22,115,Thomas and Sons
+56,Self-enabling contextually-based standardization,Automotive,52.43,157,"Pearson, Webster and Bean"
+57,Optional motivating portal,Books,725.81,443,Frederick and Sons
+58,Total leadingedge frame,Automotive,354.33,198,"Mcdowell, Shields and Parker"
+59,Customizable dynamic system engine,Toys,423.34,390,"Lucas, Mccormick and Lee"
+60,Exclusive responsive paradigm,Clothing,942.09,166,"Lee, Alvarez and Woods"
+61,Business-focused optimal solution,Electronics,263.15,340,Stevenson-Schaefer
+62,Devolved background core,Clothing,993.48,349,Cole-Hall
+63,Face-to-face incremental instruction set,Sports,679.53,313,Baker LLC
+64,Total intangible contingency,Clothing,885.96,58,Perry-Melton
+65,Reactive 6thgeneration knowledge user,Clothing,562.47,298,Gill-Roberson
+66,Automated stable Graphical User Interface,Books,52.78,140,Campbell-King
+67,Visionary exuding challenge,Toys,242.42,318,Hill-Thomas
+68,Secured 24/7 paradigm,Books,107.38,249,Zimmerman-Parker
+69,Programmable directional functionalities,Clothing,425.4,215,"Davis, Gordon and Cooper"
+70,Future-proofed regional collaboration,Books,472.89,34,Case Inc
+71,Polarized 4thgeneration knowledgebase,Automotive,529.0,273,Tran-Smith
+72,Operative static paradigm,Home & Garden,401.99,460,Crosby and Sons
+73,Persistent directional product,Books,652.22,272,Curry PLC
+74,Up-sized foreground parallelism,Books,727.71,85,"Cunningham, King and Cunningham"
+75,Enterprise-wide exuding time-frame,Clothing,506.96,117,Gonzalez-Boyle
+76,Monitored multi-state core,Sports,922.91,369,Mcfarland-Arnold
+77,Persevering modular open architecture,Home & Garden,283.46,364,"Sanchez, Wang and Mann"
+78,Face-to-face empowering Graphic Interface,Toys,845.8,233,Cruz LLC
+79,Grass-roots real-time open system,Electronics,130.14,18,Sanders and Sons
+80,Team-oriented composite secured line,Sports,237.22,349,Barber Group
+81,Re-engineered systemic moratorium,Books,797.24,295,Finley-Schmidt
+82,Secured grid-enabled info-mediaries,Books,387.06,483,Hood-Johnson
+83,Progressive directional attitude,Electronics,152.81,85,Henry-Clements
+84,Business-focused modular paradigm,Sports,356.27,267,Chavez Inc
+85,Multi-channeled scalable artificial intelligence,Books,601.05,426,"Collier, Ferguson and Gutierrez"
+86,Synchronized bottom-line projection,Books,28.18,298,"Hill, Thomas and Bell"
+87,Object-based motivating framework,Clothing,639.05,168,"Lewis, Peterson and Poole"
+88,Distributed static circuit,Books,987.75,308,"Wright, Craig and Mahoney"
+89,User-centric asynchronous architecture,Sports,360.16,144,Jenkins Group
+90,Total composite info-mediaries,Electronics,218.51,53,Terry and Sons
+91,Enterprise-wide interactive orchestration,Automotive,602.53,121,"Johnson, Gregory and Johnson"
+92,Synergistic system-worthy neural-net,Home & Garden,236.05,342,Osborne Ltd
+93,Switchable systemic circuit,Books,566.84,435,"Smith, Wagner and Alvarez"
+94,Fully-configurable directional contingency,Automotive,455.68,174,"Medina, Thomas and Jones"
+95,Reactive human-resource hardware,Sports,658.21,72,Huff-Golden
+96,Open-architected fresh-thinking throughput,Toys,100.29,150,Johnson Group
+97,Implemented holistic instruction set,Books,594.13,272,Allen and Sons
+98,Virtual full-range analyzer,Toys,987.45,91,Aguilar Inc
+99,Cross-group intangible website,Electronics,637.24,8,"Miller, Tanner and Mccoy"
+100,Inverse composite monitoring,Sports,610.98,408,Brown and Sons
+101,Open-architected next generation complexity,Automotive,439.76,211,"Burnett, Hudson and Johnston"
+102,Innovative discrete definition,Electronics,508.2,118,Zamora Group
+103,Object-based scalable middleware,Clothing,532.83,348,Rose PLC
+104,Optional analyzing firmware,Books,162.15,213,Russell and Sons
+105,Fully-configurable encompassing throughput,Toys,908.6,376,"Mahoney, Dorsey and Curtis"
+106,Vision-oriented demand-driven software,Sports,29.89,274,"Simpson, Phelps and Bennett"
+107,Re-contextualized multi-state initiative,Electronics,441.7,73,Wallace LLC
+108,Stand-alone fault-tolerant definition,Books,75.86,229,Parker-Marsh
+109,Networked coherent initiative,Automotive,917.82,238,"Rodriguez, Moreno and Snow"
+110,Proactive systemic paradigm,Books,188.71,355,"Paul, Romero and Nunez"
+111,Decentralized content-based concept,Home & Garden,254.76,92,"Johnson, Brown and Harris"
+112,Sharable homogeneous standardization,Books,128.99,445,Powers and Sons
+113,User-centric directional capability,Automotive,590.43,386,"Lindsey, Olson and Anderson"
+114,Operative transitional paradigm,Toys,235.59,3,Johnson Ltd
+115,Streamlined national attitude,Electronics,142.98,283,"Davis, Deleon and Gibson"
+116,Optimized motivating flexibility,Toys,564.51,356,Miller-Anderson
+117,Diverse upward-trending functionalities,Sports,33.49,3,Romero PLC
+118,Reverse-engineered systemic focus group,Books,913.42,278,Mcbride and Sons
+119,User-friendly demand-driven projection,Sports,833.64,456,"Alexander, Joyce and Sanchez"
+120,Diverse actuating synergy,Electronics,917.23,39,Goodwin and Sons
+121,Reduced maximized frame,Toys,320.61,137,"Hansen, English and Martin"
+122,Networked radical Local Area Network,Automotive,677.83,456,Stewart-Williams
+123,Polarized radical intranet,Books,448.53,434,"Larson, Barnes and Edwards"
+124,Implemented intermediate collaboration,Automotive,610.46,415,"Glenn, Willis and Bennett"
+125,Configurable uniform orchestration,Books,511.97,454,"Kim, Fuentes and Schneider"
+126,Balanced non-volatile benchmark,Electronics,620.88,225,Torres Ltd
+127,Mandatory bifurcated emulation,Electronics,652.62,448,"Garcia, Davidson and Williams"
+128,Quality-focused client-driven help-desk,Automotive,227.28,425,Marshall Group
+129,Innovative object-oriented time-frame,Clothing,596.08,247,Glenn-Fernandez
+130,Seamless solution-oriented access,Electronics,687.01,16,Hurst-Myers
+131,Centralized maximized complexity,Automotive,364.62,140,Thompson LLC
+132,Seamless mobile focus group,Sports,903.93,328,"Nelson, Hart and King"
+133,Inverse needs-based circuit,Books,386.89,360,Wells and Sons
+134,Cross-platform web-enabled projection,Electronics,268.1,195,Dixon LLC
+135,Balanced heuristic analyzer,Clothing,621.47,275,"Palmer, Rojas and Gonzalez"
+136,Implemented optimizing hardware,Home & Garden,106.69,70,"Clarke, Woods and Johnson"
+137,Fundamental zero-defect frame,Clothing,784.23,57,"Michael, Luna and Lopez"
+138,Seamless interactive budgetary management,Automotive,592.83,24,Calderon-Reyes
+139,Phased coherent matrices,Automotive,356.14,93,"Austin, Cameron and Fox"
+140,Organic mobile Graphical User Interface,Electronics,815.61,192,"Sullivan, Armstrong and Sanchez"
+141,Synergistic system-worthy array,Toys,596.59,379,"Silva, Bailey and Barron"
+142,Enhanced intangible algorithm,Toys,130.93,476,Ramirez PLC
+143,Quality-focused 6thgeneration challenge,Books,69.35,187,Warren-Stephens
+144,Ergonomic homogeneous challenge,Clothing,457.39,168,Lang-Edwards
+145,Customizable homogeneous data-warehouse,Books,648.77,13,Curry LLC
+146,Upgradable well-modulated database,Sports,133.36,67,Martinez-Payne
+147,Versatile attitude-oriented framework,Sports,836.86,188,Spencer-Wright
+148,Distributed local pricing structure,Home & Garden,272.97,31,Camacho-Parker
+149,Reduced disintermediate system engine,Electronics,256.64,343,Lee-Hodge
+150,Future-proofed fault-tolerant analyzer,Automotive,663.81,417,Camacho Inc
+151,Diverse tertiary software,Sports,873.96,167,Chapman-Schultz
+152,Total optimizing product,Home & Garden,213.74,474,"Williams, Bell and Armstrong"
+153,Up-sized didactic moratorium,Electronics,142.04,448,Jackson-Miles
+154,Face-to-face needs-based open architecture,Electronics,722.72,167,Patton-Bush
+155,Optional local success,Home & Garden,439.33,112,"Briggs, Nelson and Miller"
+156,Customizable mobile data-warehouse,Electronics,803.4,331,Hayes-Huber
+157,Reduced needs-based circuit,Electronics,959.95,462,"Williams, Brown and Everett"
+158,Diverse local data-warehouse,Sports,814.02,359,Osborne PLC
+159,Function-based systemic flexibility,Clothing,104.63,460,Brock Group
+160,Synergized solution-oriented methodology,Automotive,888.91,434,"Horn, Henson and Figueroa"
+161,Managed responsive model,Home & Garden,233.06,226,Bennett PLC
+162,Programmable responsive open architecture,Toys,877.08,156,Myers-Novak
+163,Progressive actuating task-force,Home & Garden,729.03,215,Castaneda and Sons
+164,Adaptive dedicated encryption,Toys,708.18,219,"Mcmahon, Rogers and Cisneros"
+165,User-centric composite orchestration,Clothing,656.89,457,Simpson-Valdez
+166,Re-contextualized encompassing initiative,Clothing,616.17,491,Aguirre Inc
+167,Open-source logistical customer loyalty,Automotive,348.32,257,"Guerrero, Schultz and Bradley"
+168,Optimized uniform firmware,Clothing,154.45,301,"Petersen, Brown and Brown"
+169,Streamlined zero administration help-desk,Clothing,283.06,299,"Morris, Hill and Hernandez"
+170,Diverse radical infrastructure,Home & Garden,801.7,348,"Stafford, White and Cooper"
+171,Organic modular collaboration,Electronics,452.61,54,"Carter, Duncan and Smith"
+172,Self-enabling executive methodology,Electronics,753.81,325,Garcia Inc
+173,Intuitive tangible knowledgebase,Toys,64.36,248,"Bailey, Hanna and Morales"
+174,Upgradable optimizing strategy,Automotive,734.37,77,Rhodes LLC
+175,Object-based zero administration analyzer,Home & Garden,632.53,268,Jacobs and Sons
+176,Horizontal leadingedge productivity,Automotive,743.21,337,Compton-Young
+177,Multi-channeled upward-trending success,Toys,585.45,424,Holt-Palmer
+178,Switchable responsive info-mediaries,Clothing,391.61,379,Lindsey-Gutierrez
+179,Integrated logistical middleware,Sports,432.18,125,Evans-Green
+180,Synergistic upward-trending process improvement,Sports,838.0,397,Wilson and Sons
+181,Universal discrete intranet,Clothing,254.39,146,Evans-Allen
+182,Focused responsive structure,Electronics,868.96,471,Young and Sons
+183,Extended scalable installation,Home & Garden,106.63,99,Spence-Smith
+184,Synchronized reciprocal moratorium,Clothing,537.0,289,Richardson-Walker
+185,Organic interactive architecture,Automotive,244.2,281,Rogers PLC
+186,Extended stable monitoring,Toys,418.36,286,Mcknight-Gallegos
+187,Automated stable migration,Sports,11.27,101,"Spencer, Bennett and Alvarez"
+188,Automated systemic framework,Home & Garden,202.46,410,Hall-Page
+189,Front-line responsive moratorium,Home & Garden,449.54,60,"Howell, Hanson and Mahoney"
+190,Managed multimedia strategy,Automotive,758.73,31,Ramirez-Ryan
+191,Reactive eco-centric orchestration,Clothing,482.96,22,Salinas-Freeman
+192,Fundamental global matrices,Home & Garden,118.28,99,"Rivera, Dominguez and Knight"
+193,Adaptive stable parallelism,Sports,451.27,32,Navarro-Carter
+194,Integrated object-oriented customer loyalty,Books,472.51,218,Miller and Sons
+195,Multi-layered 6thgeneration model,Clothing,23.94,125,Chaney Inc
+196,Triple-buffered composite leverage,Electronics,105.54,382,Santiago-Taylor
+197,Assimilated responsive application,Books,268.01,340,Lawrence LLC
+198,Robust zero administration conglomeration,Automotive,93.78,125,Smith-Buchanan
+199,Persevering dynamic complexity,Books,658.57,196,Mason-Johnson
+200,Future-proofed high-level migration,Automotive,686.38,396,"Stewart, Anderson and Reynolds"
+201,Down-sized object-oriented budgetary management,Electronics,339.24,498,Turner-Bailey
+202,Progressive tertiary time-frame,Sports,742.41,425,Clark Inc
+203,Progressive hybrid instruction set,Automotive,968.88,225,Woodward-Shea
+204,Right-sized non-volatile open architecture,Clothing,246.52,289,"Mills, Baird and Russo"
+205,Intuitive eco-centric website,Sports,566.59,293,Drake PLC
+206,Total radical intranet,Sports,229.3,112,Green and Sons
+207,Persistent impactful analyzer,Electronics,589.96,91,Harris-Smith
+208,Configurable fault-tolerant function,Clothing,428.1,475,Barnett-Zhang
+209,Future-proofed global initiative,Home & Garden,113.56,210,Vargas and Sons
+210,Enhanced well-modulated functionalities,Home & Garden,511.24,246,Lewis-Baker
+211,Operative executive projection,Automotive,400.99,205,Walker Inc
+212,Multi-tiered human-resource utilization,Books,450.85,479,"Morgan, Diaz and Williams"
+213,Extended foreground orchestration,Clothing,645.6,438,Moore PLC
+214,Sharable bi-directional matrix,Sports,994.66,485,Harvey-Perez
+215,Self-enabling 3rdgeneration pricing structure,Clothing,921.36,94,"Richardson, Park and Burns"
+216,User-friendly local monitoring,Home & Garden,717.16,399,"Wilkerson, Allen and Johnson"
+217,Stand-alone systemic application,Toys,490.06,422,David-Freeman
+218,Expanded static synergy,Toys,269.33,12,"Santos, Hensley and Maldonado"
+219,Managed multi-tasking solution,Sports,152.7,477,Gill-Brooks
+220,User-centric reciprocal benchmark,Books,50.12,164,Washington-Henson
+221,Optional client-server budgetary management,Electronics,544.45,407,Cohen-Alvarez
+222,Self-enabling tertiary success,Home & Garden,137.03,471,"Ayala, Gilbert and Dillon"
+223,Business-focused scalable application,Automotive,182.54,317,Kim Ltd
+224,Fundamental zero tolerance paradigm,Toys,946.85,17,Cox Ltd
+225,Open-architected asynchronous intranet,Automotive,666.2,126,"Rodriguez, Walker and Blanchard"
+226,Universal asynchronous solution,Toys,410.82,75,"Jenkins, Carroll and Gross"
+227,Front-line tangible implementation,Home & Garden,234.27,73,Simmons Ltd
+228,Diverse secondary project,Sports,583.85,95,"Deleon, Ball and Holmes"
+229,Optimized scalable instruction set,Home & Garden,735.58,25,"Cunningham, Mcdonald and Rivers"
+230,Face-to-face attitude-oriented neural-net,Books,878.04,217,"Duke, Arellano and Brown"
+231,Horizontal context-sensitive hub,Clothing,730.43,481,Robinson and Sons
+232,Visionary context-sensitive productivity,Electronics,584.83,258,Schneider-Rhodes
+233,Down-sized explicit leverage,Home & Garden,735.77,209,"Smith, Harrison and Osborne"
+234,Organic zero tolerance service-desk,Electronics,616.02,326,"Dougherty, Williams and Nelson"
+235,Re-contextualized discrete adapter,Sports,449.46,313,"Hill, Perez and Evans"
+236,Cross-platform upward-trending encryption,Books,767.95,385,Owens and Sons
+237,Polarized interactive methodology,Home & Garden,198.4,489,Wright-Williams
+238,Triple-buffered asymmetric moderator,Electronics,427.78,470,Burton Inc
+239,Robust grid-enabled hub,Home & Garden,218.88,321,"Alvarado, Bishop and Owens"
+240,Future-proofed transitional ability,Books,860.71,351,Salazar and Sons
+241,Focused hybrid capability,Books,102.61,323,Macias and Sons
+242,Sharable tangible open architecture,Toys,121.68,119,Mercer PLC
+243,Cross-group contextually-based paradigm,Books,430.56,306,Thomas-Johnson
+244,Synergistic reciprocal Internet solution,Automotive,631.98,395,"Saunders, Brown and Castro"
+245,Reverse-engineered client-driven focus group,Home & Garden,157.13,183,"Bullock, Higgins and Wilson"
+246,Public-key optimal database,Automotive,401.26,93,Perkins LLC
+247,Re-engineered non-volatile collaboration,Clothing,859.02,109,"Green, Henderson and Sparks"
+248,Monitored radical capacity,Toys,727.67,282,Martin Group
+249,Re-engineered homogeneous matrices,Books,282.9,378,Johnson-Howe
+250,Function-based client-server framework,Electronics,622.31,273,"Anderson, Roberts and Atkinson"
+251,Implemented fault-tolerant groupware,Toys,843.85,430,Long LLC
+252,Virtual tertiary contingency,Sports,533.72,278,Guerra-Wall
+253,Up-sized intermediate secured line,Sports,996.32,61,Watkins Ltd
+254,De-engineered fault-tolerant projection,Home & Garden,505.73,272,Stone-Hoffman
+255,Sharable disintermediate archive,Toys,522.28,183,Gentry-Rodriguez
+256,Stand-alone explicit infrastructure,Clothing,380.25,363,Johnston Ltd
+257,Operative static forecast,Electronics,327.42,259,Chen-Salazar
+258,Reverse-engineered intangible methodology,Automotive,295.17,411,Dennis LLC
+259,Synergized optimal website,Electronics,738.1,258,Hood Group
+260,Devolved full-range middleware,Books,250.06,174,"Parker, Herrera and Morris"
+261,Balanced multi-state paradigm,Clothing,637.07,179,"Robinson, Haney and Cooper"
+262,Cloned transitional methodology,Home & Garden,453.81,428,Sanders and Sons
+263,Fully-configurable real-time matrix,Home & Garden,430.76,155,Jenkins-Hall
+264,Quality-focused value-added forecast,Books,939.68,469,Shah PLC
+265,Distributed composite concept,Sports,652.27,403,Christensen Ltd
+266,Cross-group optimizing forecast,Automotive,518.64,272,Reilly Ltd
+267,Cross-platform bifurcated structure,Books,638.44,249,"Garcia, Anthony and Cordova"
+268,User-centric encompassing moderator,Toys,151.95,299,Johnson Inc
+269,Extended responsive portal,Books,263.64,7,Price-Carlson
+270,Persevering national hub,Books,290.59,75,"Berger, Wilkerson and Moreno"
+271,Profound next generation initiative,Home & Garden,682.63,228,"Frederick, Peterson and Evans"
+272,Networked discrete process improvement,Electronics,229.24,367,"Ellis, Stephens and Hensley"
+273,Ameliorated didactic open architecture,Sports,341.12,71,Klein-Hill
+274,Up-sized exuding methodology,Home & Garden,685.74,475,King Ltd
+275,Decentralized directional encoding,Home & Garden,894.73,351,Logan Ltd
+276,Extended zero-defect portal,Automotive,409.98,461,"Sandoval, West and Perez"
+277,Ergonomic responsive database,Clothing,424.0,298,"Hill, Smith and Henry"
+278,Re-contextualized cohesive attitude,Books,151.39,345,Perez LLC
+279,Open-source impactful core,Electronics,984.13,114,Burnett-Mcgrath
+280,Multi-layered transitional encryption,Toys,814.43,421,Manning-Gonzalez
+281,Multi-lateral client-driven function,Toys,515.76,416,Castillo-Lewis
+282,Realigned reciprocal intranet,Home & Garden,576.87,359,Torres-Murphy
+283,Total multi-tasking circuit,Sports,428.44,240,Roberts-Massey
+284,Inverse maximized open architecture,Toys,327.99,397,Hill PLC
+285,Pre-emptive composite Graphic Interface,Books,842.68,194,"West, Hubbard and Brooks"
+286,Balanced dynamic solution,Home & Garden,880.46,285,"Rogers, Nelson and Davenport"
+287,Vision-oriented bottom-line projection,Home & Garden,172.03,296,"Miller, Williams and Clark"
+288,Open-architected analyzing paradigm,Sports,244.89,413,"Velez, Wong and Jones"
+289,Sharable radical workforce,Books,460.56,242,"Cook, Mooney and Moore"
+290,Robust discrete contingency,Clothing,329.48,388,Thompson and Sons
+291,Down-sized tertiary emulation,Toys,30.7,119,Mcclure Group
+292,Diverse logistical budgetary management,Clothing,579.69,124,Harvey-Molina
+293,Profit-focused contextually-based intranet,Sports,641.48,276,Hoffman Ltd
+294,Grass-roots 5thgeneration customer loyalty,Clothing,841.37,55,"Hudson, Buck and Fisher"
+295,Optional homogeneous access,Sports,234.37,205,"Hernandez, Ortiz and Ramirez"
+296,Inverse human-resource focus group,Electronics,468.49,372,Farmer-Johnson
+297,Right-sized leadingedge service-desk,Clothing,811.67,184,Jackson-Clark
+298,Implemented responsive neural-net,Books,990.29,183,"Thomas, Palmer and Simpson"
+299,Reactive logistical productivity,Automotive,167.36,73,"Ortega, Rose and Robinson"
+300,Fundamental fault-tolerant protocol,Books,17.73,466,"Liu, Orozco and Kelley"
+301,Advanced cohesive ability,Automotive,99.68,317,York Inc
+302,Proactive didactic orchestration,Toys,633.54,204,Holloway PLC
+303,Implemented full-range function,Automotive,187.65,316,Bruce Inc
+304,Public-key solution-oriented encoding,Home & Garden,874.27,486,Gonzalez Group
+305,Visionary 24/7 project,Automotive,855.1,97,"Mccarty, Smith and Stevens"
+306,Automated zero-defect parallelism,Clothing,586.58,284,"Stewart, Garcia and Blackburn"
+307,Enterprise-wide motivating support,Books,552.93,498,"George, Walker and Ingram"
+308,Operative regional forecast,Home & Garden,510.69,457,Lloyd PLC
+309,Inverse modular architecture,Electronics,448.87,371,Dyer-Stuart
+310,Secured tangible Graphic Interface,Home & Garden,694.22,380,Hutchinson-Brown
+311,Secured fault-tolerant strategy,Books,395.17,265,Long-Anderson
+312,Reverse-engineered modular installation,Electronics,396.13,447,"Ferguson, Wells and Stephenson"
+313,Realigned discrete software,Automotive,371.79,361,Wright-Hoover
+314,Up-sized fresh-thinking budgetary management,Books,475.44,0,"Kim, Chaney and Johnston"
+315,Cross-platform upward-trending conglomeration,Electronics,641.13,102,Livingston Ltd
+316,Right-sized hybrid time-frame,Toys,204.67,35,Mann Inc
+317,Optional context-sensitive Local Area Network,Clothing,334.21,86,Baker Inc
+318,Seamless encompassing middleware,Clothing,980.31,453,Chapman Group
+319,Ameliorated grid-enabled hardware,Home & Garden,838.66,335,Gray and Sons
+320,Function-based impactful migration,Clothing,115.75,214,Martinez-Dorsey
+321,Fundamental regional forecast,Toys,568.6,125,"Huff, Mueller and Morales"
+322,Universal dedicated initiative,Toys,674.02,191,Butler Group
+323,Phased coherent concept,Home & Garden,652.16,342,"Evans, Garrison and Schneider"
+324,Universal mission-critical portal,Electronics,249.54,265,Chapman PLC
+325,Upgradable full-range product,Sports,856.13,457,Cole Ltd
+326,Proactive needs-based array,Clothing,521.3,192,Coleman LLC
+327,User-friendly eco-centric contingency,Sports,355.35,327,Jacobson LLC
+328,Managed hybrid support,Electronics,738.93,347,Fernandez PLC
+329,Reactive object-oriented ability,Electronics,103.12,189,"Foster, Alexander and Tate"
+330,Reduced eco-centric instruction set,Electronics,582.65,177,Bryant-Andrews
+331,Object-based full-range projection,Toys,415.09,90,"Horton, Miller and Cooper"
+332,Vision-oriented local orchestration,Toys,105.48,92,Smith-Espinoza
+333,Visionary 6thgeneration access,Books,503.74,106,"Johnson, Brown and Jones"
+334,Virtual user-facing software,Toys,592.22,171,"Crosby, Zavala and Johnston"
+335,Cloned non-volatile concept,Automotive,849.97,370,Reilly-Stewart
+336,Team-oriented client-driven matrix,Books,453.86,54,Bennett-Mcdonald
+337,Multi-layered user-facing middleware,Clothing,193.17,123,"Morgan, Hall and Harmon"
+338,Seamless reciprocal capability,Toys,870.05,413,"Fields, Bailey and Rodriguez"
+339,Sharable user-facing superstructure,Books,319.87,300,Brown-Mclaughlin
+340,Realigned bandwidth-monitored support,Clothing,109.23,466,"Trevino, Jones and Cox"
+341,Monitored national array,Sports,423.82,190,Baker Ltd
+342,Digitized transitional orchestration,Toys,492.91,96,Medina Group
+343,Face-to-face solution-oriented challenge,Automotive,213.83,409,"Jenkins, Bishop and Watson"
+344,Visionary tertiary strategy,Toys,95.37,498,Carey-Martin
+345,Profound real-time analyzer,Toys,611.19,366,King-Steele
+346,Up-sized high-level installation,Books,221.56,325,"Campos, Stevens and Johnson"
+347,Inverse intermediate contingency,Sports,302.0,411,Sullivan Inc
+348,Visionary foreground portal,Home & Garden,932.89,235,Tyler-Myers
+349,Visionary tertiary hub,Home & Garden,107.46,283,Montgomery Ltd
+350,Reduced upward-trending infrastructure,Clothing,113.21,272,Washington-Walker
+351,Organized scalable Internet solution,Books,200.83,413,Lara LLC
+352,Organized tertiary data-warehouse,Sports,685.39,112,Morris Inc
+353,Inverse client-driven approach,Electronics,827.29,241,Padilla LLC
+354,Synergized stable moratorium,Clothing,530.19,467,Smith Inc
+355,Programmable even-keeled task-force,Toys,863.62,216,"Taylor, Castro and Pham"
+356,Versatile zero administration pricing structure,Sports,480.81,199,Molina Ltd
+357,Re-contextualized clear-thinking implementation,Toys,751.61,323,"Matthews, Oconnor and Porter"
+358,Seamless maximized service-desk,Electronics,558.84,251,"Mann, Dalton and Tucker"
+359,Programmable composite superstructure,Home & Garden,862.0,31,Hunter LLC
+360,Profound executive Graphical User Interface,Toys,906.36,322,Ruiz Inc
+361,Reduced encompassing budgetary management,Toys,908.39,153,Rogers PLC
+362,Reactive client-server support,Sports,511.02,265,Robertson PLC
+363,Managed secondary encoding,Automotive,593.69,80,"Andersen, Jones and Gonzalez"
+364,Multi-tiered high-level instruction set,Toys,736.47,420,Baker LLC
+365,Synchronized contextually-based matrices,Sports,193.11,98,"Bowen, Davies and Grant"
+366,Implemented full-range strategy,Home & Garden,10.43,297,Jones and Sons
+367,Ergonomic local algorithm,Sports,640.2,137,Perez-Ford
+368,Up-sized 24hour project,Automotive,698.26,75,"Decker, Allen and Cox"
+369,Re-engineered contextually-based core,Clothing,211.86,408,Spence-Cox
+370,Organic intermediate Graphic Interface,Clothing,676.2,63,"Duncan, Harris and Bird"
+371,Innovative national capacity,Electronics,227.83,347,Harris-Taylor
+372,Advanced even-keeled infrastructure,Books,973.29,374,Scott-Carter
+373,Expanded incremental moratorium,Sports,869.22,384,Williams Ltd
+374,Self-enabling demand-driven collaboration,Sports,337.22,248,Stephens Group
+375,Assimilated hybrid circuit,Sports,400.49,359,Collins Inc
+376,Decentralized dynamic extranet,Electronics,544.93,72,"Shields, Carroll and Watkins"
+377,Synergized web-enabled superstructure,Automotive,187.25,454,George-Grimes
+378,Customizable exuding strategy,Home & Garden,803.09,204,Shannon LLC
+379,Innovative value-added function,Automotive,116.15,418,Ibarra Group
+380,Enterprise-wide impactful definition,Clothing,47.69,463,Winters LLC
+381,Team-oriented value-added hub,Toys,270.72,310,Rogers Group
+382,Distributed radical infrastructure,Automotive,998.27,312,Sullivan-Taylor
+383,Assimilated 5thgeneration system engine,Books,676.01,84,"Vasquez, George and Taylor"
+384,Secured demand-driven website,Toys,980.84,388,King-Underwood
+385,Team-oriented static contingency,Toys,178.72,442,Nguyen PLC
+386,Ergonomic content-based utilization,Electronics,197.22,489,Holmes-Morrison
+387,Object-based human-resource benchmark,Automotive,812.16,23,Stevens-Henderson
+388,Phased maximized encoding,Sports,839.91,217,Moses Ltd
+389,Self-enabling eco-centric attitude,Toys,48.44,195,Ramirez-Wagner
+390,Managed disintermediate artificial intelligence,Home & Garden,938.75,314,Cantrell and Sons
+391,Down-sized modular matrices,Home & Garden,715.9,300,Nunez Inc
+392,Operative fresh-thinking algorithm,Electronics,119.86,103,Moore-Obrien
+393,Triple-buffered systematic application,Sports,91.13,71,Price-Porter
+394,Stand-alone asynchronous system engine,Home & Garden,351.59,482,"Anthony, Gates and Dalton"
+395,Devolved object-oriented projection,Electronics,628.06,154,Anderson Ltd
+396,Horizontal responsive solution,Clothing,654.68,310,Williams-Crawford
+397,Secured solution-oriented info-mediaries,Toys,802.5,38,"Gonzalez, Armstrong and Conrad"
+398,Grass-roots responsive artificial intelligence,Electronics,883.76,61,Dunn Ltd
+399,Virtual asynchronous projection,Home & Garden,32.28,471,"Morris, Sanders and Delgado"
+400,Advanced contextually-based flexibility,Home & Garden,399.19,175,"Anderson, Bentley and Mason"
+401,Optimized discrete initiative,Clothing,791.68,215,Montgomery-Williamson
+402,Cloned methodical architecture,Toys,976.55,487,Poole-Harvey
+403,Open-source bi-directional database,Electronics,657.39,347,Maldonado PLC
+404,Exclusive motivating methodology,Home & Garden,714.29,163,Brown-Hart
+405,Innovative human-resource service-desk,Clothing,414.22,444,Rogers-Salazar
+406,Adaptive intermediate infrastructure,Sports,879.55,417,"Bennett, Thornton and Lee"
+407,Organic incremental interface,Clothing,53.69,485,Reed-Hendricks
+408,Diverse secondary protocol,Clothing,472.99,151,"Velazquez, Taylor and Pearson"
+409,Self-enabling didactic Local Area Network,Sports,386.0,312,Campbell Group
+410,Down-sized regional budgetary management,Automotive,985.86,306,"Daniel, Holt and Hobbs"
+411,Networked mobile time-frame,Books,854.08,7,"Gross, Montgomery and Osborn"
+412,Streamlined full-range functionalities,Sports,774.25,276,Johnson Inc
+413,Proactive dedicated customer loyalty,Clothing,856.78,451,Irwin and Sons
+414,Devolved analyzing array,Books,187.22,54,Coleman-Owens
+415,Devolved solution-oriented adapter,Home & Garden,33.4,500,"Mcintyre, Williams and Gonzales"
+416,Re-engineered multi-tasking framework,Sports,553.87,306,"Fleming, Jones and Olsen"
+417,Visionary methodical Graphic Interface,Sports,231.13,271,Jones PLC
+418,Horizontal intermediate Graphic Interface,Automotive,34.1,356,Young-Vega
+419,Multi-layered disintermediate leverage,Sports,753.03,67,Waters-Keith
+420,Cross-platform fault-tolerant productivity,Clothing,961.44,136,Frey-Patel
+421,Expanded even-keeled neural-net,Clothing,148.17,421,"Carey, Kent and Harris"
+422,Monitored 24hour collaboration,Automotive,635.2,488,Williams Inc
+423,Grass-roots neutral array,Toys,196.15,113,"Harrell, Lowe and Graves"
+424,Balanced intermediate core,Automotive,584.55,103,Wood PLC
+425,Inverse local extranet,Home & Garden,706.38,92,"Valenzuela, Carpenter and Garza"
+426,Business-focused hybrid system engine,Toys,986.09,178,"Pham, Ramirez and Dawson"
+427,Advanced optimal open architecture,Toys,655.66,379,Moody-Rodriguez
+428,Implemented motivating matrix,Toys,654.5,111,Hill-Foster
+429,Synchronized foreground array,Sports,215.13,380,Gonzalez-Little
+430,Cloned solution-oriented project,Toys,993.36,324,Jones-Hardy
+431,Future-proofed systemic solution,Sports,657.25,456,"Reilly, Brewer and Wright"
+432,Profit-focused object-oriented solution,Clothing,217.03,128,"Thomas, Griffin and Rodriguez"
+433,Pre-emptive optimizing emulation,Electronics,464.3,347,Hill Inc
+434,Re-engineered cohesive implementation,Home & Garden,510.17,319,"Smith, Crawford and Evans"
+435,Down-sized multi-state conglomeration,Clothing,452.55,90,Graham-Reynolds
+436,Focused mission-critical ability,Automotive,985.69,146,Martin-Bell
+437,Compatible exuding capacity,Sports,13.39,287,Jordan-Avila
+438,Reverse-engineered fault-tolerant software,Clothing,612.4,2,"Lang, Dillon and Simmons"
+439,Configurable systematic budgetary management,Clothing,36.26,343,King and Sons
+440,Right-sized human-resource success,Automotive,399.45,355,Conway Ltd
+441,Diverse client-driven Local Area Network,Electronics,794.69,330,Gonzalez-Cortez
+442,Persistent asynchronous matrix,Electronics,346.93,347,Marsh-Lee
+443,Grass-roots discrete interface,Books,956.38,92,Brown LLC
+444,Synergistic 5thgeneration intranet,Clothing,625.1,420,"Bishop, Baker and Browning"
+445,Operative upward-trending service-desk,Toys,984.32,184,Lucas PLC
+446,Triple-buffered regional artificial intelligence,Clothing,474.45,476,"Ryan, Howard and Fischer"
+447,Reverse-engineered radical artificial intelligence,Toys,367.76,78,Moran-Garcia
+448,Synergized well-modulated secured line,Home & Garden,42.48,253,Young Inc
+449,Cross-platform system-worthy contingency,Clothing,65.79,103,Dennis and Sons
+450,Object-based even-keeled software,Toys,500.45,194,"Williams, Gibson and Moore"
+451,Implemented object-oriented website,Electronics,140.12,53,Kramer-Hansen
+452,Right-sized hybrid matrices,Toys,490.82,370,Bishop-Torres
+453,Proactive multi-state challenge,Electronics,706.61,465,Johnson-Griffin
+454,Proactive discrete hardware,Home & Garden,457.93,136,Anderson-Mason
+455,Automated clear-thinking open system,Books,36.93,341,Morton and Sons
+456,Total secondary budgetary management,Automotive,783.35,344,"Hebert, Shelton and Anderson"
+457,Enterprise-wide multi-state standardization,Books,83.41,442,Cochran-Walker
+458,Ergonomic encompassing extranet,Automotive,673.8,213,Ayers and Sons
+459,Polarized upward-trending extranet,Clothing,963.39,264,"Jones, Rojas and Sanchez"
+460,Virtual scalable frame,Clothing,836.77,1,"Peterson, Thomas and Davis"
+461,Upgradable logistical frame,Clothing,364.62,206,Reyes LLC
+462,Sharable contextually-based array,Home & Garden,342.74,363,Garcia LLC
+463,Profound 6thgeneration task-force,Electronics,563.71,6,Smith-Hanson
+464,Customizable context-sensitive pricing structure,Books,959.76,97,Garcia and Sons
+465,Monitored even-keeled knowledge user,Sports,649.32,470,"Hansen, Farmer and Reyes"
+466,Multi-layered composite adapter,Clothing,80.95,274,Thompson-Watson
+467,Multi-tiered discrete throughput,Sports,98.04,107,"Rodriguez, Mcguire and Brown"
+468,Business-focused motivating knowledgebase,Sports,960.14,240,Hart-Robinson
+469,Business-focused neutral standardization,Home & Garden,133.14,487,Chavez Ltd
+470,Multi-layered zero-defect neural-net,Toys,829.77,80,Willis-Smith
+471,Inverse 3rdgeneration knowledge user,Clothing,20.64,118,Davis-Velasquez
+472,Secured stable hierarchy,Books,815.56,380,Pope PLC
+473,Inverse modular task-force,Clothing,163.37,298,"Clark, Campbell and Golden"
+474,Fundamental encompassing core,Sports,512.3,346,Jackson-Perez
+475,Re-engineered high-level function,Toys,571.63,241,"Romero, Fletcher and Green"
+476,Open-architected 24hour flexibility,Toys,699.8,352,Jones-Lee
+477,Visionary cohesive frame,Home & Garden,151.99,438,"Smith, Fields and Wilson"
+478,Re-contextualized next generation open system,Books,405.03,412,Graham-Lewis
+479,Digitized attitude-oriented forecast,Home & Garden,620.03,232,Harper LLC
+480,Integrated bifurcated groupware,Sports,119.92,94,Gould Group
+481,Team-oriented stable toolset,Electronics,415.47,297,"Miles, Cruz and Woodward"
+482,Organized eco-centric secured line,Books,79.91,494,Mckinney-Willis
+483,Profound optimal complexity,Books,981.16,18,Johnson and Sons
+484,Optimized background open architecture,Automotive,96.3,430,Hood-Johnson
+485,Devolved clear-thinking flexibility,Books,490.67,3,Carlson-Mcclure
+486,Open-source maximized policy,Automotive,209.02,161,Leblanc-Johnson
+487,Devolved intangible strategy,Electronics,500.25,296,Kelly PLC
+488,Managed radical Graphic Interface,Books,68.73,197,"Green, Brown and Jones"
+489,Re-contextualized cohesive emulation,Automotive,547.06,448,Wyatt-Moreno
+490,Expanded value-added interface,Home & Garden,877.99,391,Rich Inc
+491,Cross-group bi-directional focus group,Home & Garden,152.87,194,"Lewis, Mills and Cole"
+492,Right-sized executive standardization,Clothing,206.58,317,"Thomas, Murphy and Walker"
+493,Open-source national complexity,Home & Garden,221.72,263,"Russo, Martinez and Ruiz"
+494,Operative national application,Clothing,977.4,245,George-Jones
+495,Secured discrete benchmark,Books,746.99,63,Carney-Farrell
+496,Object-based even-keeled open architecture,Sports,948.14,269,Williams-Hunter
+497,Fully-configurable even-keeled support,Books,702.77,97,Freeman and Sons
+498,Optimized methodical analyzer,Clothing,834.16,272,Dodson and Sons
+499,Right-sized hybrid interface,Automotive,119.81,52,Nash-Gomez
+500,Intuitive logistical strategy,Home & Garden,42.4,217,Mcmillan-Johnson
+501,Seamless heuristic model,Clothing,645.3,207,"Diaz, Thomas and Allen"
+502,Organized web-enabled projection,Electronics,925.69,392,Jones and Sons
+503,Cross-group mission-critical hub,Electronics,806.93,393,Santos LLC
+504,Implemented holistic benchmark,Sports,956.34,435,"Edwards, Moore and Nichols"
+505,Digitized impactful moratorium,Books,554.7,202,Glover PLC
+506,Synchronized contextually-based productivity,Toys,258.15,448,"Vargas, Williams and Bell"
+507,Advanced clear-thinking migration,Electronics,284.01,344,Whitaker Inc
+508,Stand-alone exuding artificial intelligence,Home & Garden,335.28,153,"Davis, Duncan and Garcia"
+509,Profit-focused dedicated utilization,Electronics,106.41,455,Flores-Hoover
+510,Customer-focused context-sensitive info-mediaries,Books,733.15,221,Bradshaw-Shea
+511,Public-key mobile installation,Toys,979.32,208,"Ross, Walsh and Carrillo"
+512,Customizable coherent task-force,Home & Garden,224.64,308,Miller Inc
+513,Operative actuating product,Electronics,270.11,406,Davis Ltd
+514,Self-enabling coherent structure,Automotive,174.58,290,"Webster, Greene and Johnson"
+515,Cross-platform next generation instruction set,Home & Garden,413.43,232,Adams-Lam
+516,Right-sized systemic capability,Toys,835.15,471,"Miller, Taylor and Anderson"
+517,Monitored 6thgeneration focus group,Books,363.18,367,Scott Group
+518,Re-contextualized attitude-oriented leverage,Automotive,432.43,351,Powell-Potts
+519,Horizontal responsive Internet solution,Sports,606.7,35,Stewart Ltd
+520,Universal optimizing challenge,Home & Garden,404.99,366,Stevenson Inc
+521,Stand-alone bi-directional instruction set,Sports,458.61,164,"Wilkins, Wall and Marks"
+522,Realigned zero administration website,Home & Garden,243.01,37,Hamilton Group
+523,Exclusive neutral function,Home & Garden,753.16,444,Spence-Berger
+524,Face-to-face analyzing moderator,Clothing,853.87,381,Johnson-Patterson
+525,Down-sized high-level projection,Automotive,846.68,257,Spence Group
+526,Persistent system-worthy capability,Electronics,778.98,250,Burch-Marks
+527,Seamless asymmetric task-force,Books,72.3,213,"Kelley, Hart and Pennington"
+528,Reactive maximized interface,Books,259.6,148,Owens and Sons
+529,Multi-tiered contextually-based productivity,Sports,563.18,106,Green Ltd
+530,Pre-emptive 24/7 groupware,Clothing,38.58,417,Walker-Howard
+531,Compatible high-level service-desk,Automotive,364.38,105,"Johnson, Gibbs and Kemp"
+532,Compatible clear-thinking migration,Clothing,737.44,428,Herman Group
+533,Visionary client-driven initiative,Home & Garden,560.37,101,David-Murphy
+534,Monitored zero tolerance instruction set,Home & Garden,48.22,138,Carpenter and Sons
+535,Ergonomic value-added protocol,Sports,338.42,356,"Drake, Wilson and Jackson"
+536,Universal multi-state concept,Automotive,87.34,148,Blake Ltd
+537,Multi-tiered stable toolset,Automotive,537.88,397,Munoz Ltd
+538,Multi-lateral real-time structure,Home & Garden,413.05,400,"Monroe, Delacruz and Waters"
+539,Down-sized global interface,Home & Garden,199.19,301,Carey Inc
+540,Team-oriented stable knowledgebase,Toys,77.88,467,Olson Ltd
+541,Robust maximized secured line,Home & Garden,450.13,461,"Thompson, Peterson and Bishop"
+542,Balanced secondary implementation,Sports,769.68,369,"Dudley, Smith and Gordon"
+543,Profound didactic software,Clothing,757.21,352,Gregory-Hansen
+544,Re-contextualized mission-critical definition,Toys,656.86,377,Charles PLC
+545,Up-sized static orchestration,Clothing,316.05,293,"Davis, Martin and Carroll"
+546,Self-enabling didactic array,Home & Garden,860.84,29,Shepherd-Dean
+547,Implemented national structure,Books,58.9,3,"Humphrey, Deleon and Walker"
+548,Cloned intermediate moderator,Sports,857.25,207,"Edwards, Griffin and Smith"
+549,Organized bandwidth-monitored Graphical User Interface,Home & Garden,953.95,339,Smith-Bruce
+550,Multi-tiered demand-driven approach,Books,728.1,266,Melendez Group
+551,Team-oriented reciprocal framework,Sports,819.39,288,Greene and Sons
+552,Open-architected impactful task-force,Home & Garden,314.24,335,Harris and Sons
+553,Seamless contextually-based ability,Sports,811.36,447,Johnson Ltd
+554,De-engineered disintermediate productivity,Electronics,67.68,483,Cox-Moses
+555,Centralized upward-trending methodology,Toys,237.7,185,Cannon-Valentine
+556,Stand-alone eco-centric migration,Electronics,76.46,323,York-Stein
+557,Devolved demand-driven framework,Sports,299.97,484,Bean-Tyler
+558,Upgradable solution-oriented info-mediaries,Electronics,41.14,158,Barnes-Rodriguez
+559,Diverse intermediate array,Automotive,505.39,50,"Willis, Barrera and Young"
+560,Stand-alone mobile Graphic Interface,Toys,601.27,282,Moore-Stewart
+561,Operative needs-based monitoring,Home & Garden,461.82,468,Johnson-Hicks
+562,User-friendly 6thgeneration hardware,Sports,890.17,369,Freeman-Garcia
+563,Quality-focused context-sensitive adapter,Toys,235.26,205,Montoya Inc
+564,Grass-roots optimizing initiative,Electronics,497.39,102,"Garcia, Hernandez and Hampton"
+565,Monitored 24/7 portal,Sports,404.73,297,Smith and Sons
+566,Streamlined scalable model,Clothing,187.99,453,"Ruiz, Wall and Church"
+567,Visionary regional leverage,Electronics,160.84,468,Hogan-Jones
+568,Organized cohesive pricing structure,Books,50.12,64,Robinson-Meyers
+569,Horizontal multi-tasking toolset,Clothing,940.97,496,"Price, Fleming and Riley"
+570,Enterprise-wide logistical database,Clothing,647.42,44,Buck-Boyd
+571,Inverse systematic methodology,Clothing,981.17,282,Castaneda-Gardner
+572,Organic object-oriented website,Home & Garden,758.26,59,"Harrell, Hill and Hale"
+573,Future-proofed reciprocal emulation,Home & Garden,790.65,400,Patel LLC
+574,Decentralized full-range benchmark,Automotive,907.49,353,Atkins-Fernandez
+575,Versatile global matrices,Toys,245.26,213,"Knapp, Mcguire and Harris"
+576,Grass-roots systemic groupware,Electronics,453.92,55,Wilson-Cuevas
+577,Intuitive holistic installation,Books,625.22,494,Rodriguez Ltd
+578,Re-contextualized zero-defect knowledge user,Sports,67.2,266,Coleman Inc
+579,Multi-layered scalable implementation,Toys,856.0,429,Diaz PLC
+580,Multi-lateral scalable instruction set,Sports,590.34,102,Rodriguez-Aguilar
+581,Configurable multimedia toolset,Clothing,896.27,167,"Anderson, Bell and Jackson"
+582,Mandatory mobile ability,Electronics,29.66,292,Bray-Phillips
+583,Open-source national matrix,Toys,173.83,139,Ross-Wade
+584,Synergistic eco-centric support,Sports,976.14,258,Sullivan-Hudson
+585,Reduced reciprocal structure,Automotive,535.58,213,Tran PLC
+586,Multi-layered regional matrix,Clothing,463.06,193,"Mckee, Gomez and Carroll"
+587,Multi-layered asynchronous Internet solution,Electronics,728.12,267,Newton PLC
+588,Decentralized real-time collaboration,Automotive,305.12,331,Taylor-Hardy
+589,Re-engineered modular moratorium,Automotive,297.69,226,"Bush, Houston and Vazquez"
+590,Streamlined incremental toolset,Books,540.51,498,"Hughes, Hayes and Smith"
+591,Synergized client-driven methodology,Home & Garden,862.07,302,Green and Sons
+592,Universal 5thgeneration algorithm,Home & Garden,624.19,135,"Bartlett, Miller and Ramos"
+593,Grass-roots zero-defect extranet,Automotive,548.83,296,"Long, Reeves and Welch"
+594,Fundamental solution-oriented moderator,Sports,335.68,360,Montoya-Sullivan
+595,Customizable bifurcated instruction set,Books,684.22,341,Martin Ltd
+596,Centralized national info-mediaries,Sports,133.44,401,Robinson-Santos
+597,Advanced hybrid solution,Books,799.27,116,Fowler Inc
+598,Front-line high-level Local Area Network,Automotive,978.83,6,Grant and Sons
+599,Cross-platform 3rdgeneration encoding,Books,670.24,494,"Fisher, Harding and Lutz"
+600,Compatible user-facing Graphic Interface,Toys,898.53,8,"Farmer, Vazquez and Hammond"
+601,Quality-focused well-modulated alliance,Toys,179.16,315,Brady and Sons
+602,Customer-focused interactive migration,Home & Garden,781.94,245,Cox-Ward
+603,Compatible asymmetric website,Toys,219.97,163,Ho PLC
+604,Public-key 6thgeneration methodology,Home & Garden,68.42,379,Johnson-Allen
+605,Customer-focused bandwidth-monitored alliance,Clothing,289.38,302,Taylor Ltd
+606,Persevering 6thgeneration initiative,Automotive,525.6,43,"Li, George and Ward"
+607,Multi-channeled regional access,Electronics,999.92,419,Williams and Sons
+608,Phased system-worthy algorithm,Home & Garden,566.69,200,"Jones, Henderson and Bridges"
+609,Centralized composite installation,Home & Garden,198.57,101,Hall-Holder
+610,Focused bi-directional Internet solution,Automotive,311.8,146,"Silva, Bennett and Hopkins"
+611,Universal needs-based archive,Toys,418.3,467,"Walker, Valencia and Fritz"
+612,Vision-oriented clear-thinking model,Electronics,558.96,258,"Ballard, Johnson and Bautista"
+613,Seamless bi-directional application,Electronics,38.26,16,"Zimmerman, Salinas and Cook"
+614,Persevering static migration,Home & Garden,434.35,20,Taylor-Jacobson
+615,Persevering dynamic forecast,Sports,17.58,266,"Bradley, Smith and Carroll"
+616,Multi-channeled even-keeled support,Clothing,153.89,419,Edwards-Howard
+617,Universal heuristic Internet solution,Home & Garden,277.33,82,Martinez-Carey
+618,Multi-channeled user-facing paradigm,Automotive,114.29,32,Scott PLC
+619,Business-focused actuating productivity,Clothing,326.07,456,"Rhodes, Brown and Garcia"
+620,Diverse uniform support,Books,918.23,494,Gardner-Rodriguez
+621,Object-based system-worthy infrastructure,Home & Garden,497.7,432,Salazar PLC
+622,Switchable incremental architecture,Clothing,812.82,356,Nelson PLC
+623,Organic asynchronous circuit,Toys,591.48,392,Williams-Craig
+624,Implemented intermediate protocol,Home & Garden,87.54,122,Henry Inc
+625,Polarized intermediate solution,Books,103.57,429,Brown Inc
+626,Pre-emptive responsive policy,Electronics,443.72,165,"Thomas, Castillo and Hernandez"
+627,Total neutral moderator,Clothing,994.64,45,Patterson-Stone
+628,Progressive discrete synergy,Automotive,537.57,0,Phillips Inc
+629,Virtual 3rdgeneration strategy,Books,728.72,463,"Weaver, Richardson and Chapman"
+630,Grass-roots mobile service-desk,Books,620.05,465,Jackson PLC
+631,Reactive executive artificial intelligence,Electronics,628.84,64,Cruz-Mitchell
+632,User-centric full-range service-desk,Toys,38.26,148,"Vance, Olson and Smith"
+633,Cloned web-enabled knowledge user,Sports,358.8,344,Ramos Group
+634,Down-sized reciprocal interface,Electronics,594.02,149,"Obrien, Gonzalez and Perez"
+635,Total bifurcated orchestration,Automotive,823.4,298,"Burns, Hernandez and Thompson"
+636,Pre-emptive discrete circuit,Sports,10.6,158,White Inc
+637,Programmable 24/7 hierarchy,Clothing,417.5,119,"Wilson, Phillips and Casey"
+638,Networked holistic frame,Clothing,519.23,444,"Sandoval, Smith and Young"
+639,Up-sized optimal moratorium,Toys,363.07,374,"Wilson, Ryan and Gonzalez"
+640,Realigned encompassing migration,Electronics,486.18,311,"Shaw, Johnson and Skinner"
+641,Universal real-time data-warehouse,Automotive,805.41,370,Miller-Sanchez
+642,Expanded didactic open architecture,Clothing,915.88,100,"Aguilar, Kirk and Adams"
+643,Total optimal focus group,Automotive,607.79,277,"Hayes, Davidson and Burnett"
+644,Robust object-oriented initiative,Books,254.51,195,Vasquez-Thompson
+645,Exclusive 24/7 archive,Automotive,758.27,494,Perez-Wiley
+646,Organic regional database,Sports,67.76,488,Dean-Peters
+647,Universal heuristic architecture,Clothing,951.71,76,Wilson-Austin
+648,Down-sized background capability,Clothing,236.24,439,"Suarez, Taylor and Quinn"
+649,Face-to-face bandwidth-monitored time-frame,Electronics,380.18,310,Zimmerman-Watkins
+650,Optimized eco-centric projection,Books,235.17,427,"Riley, Collins and West"
+651,Down-sized dynamic intranet,Automotive,721.82,472,"Rodgers, Ward and Miller"
+652,Self-enabling intangible emulation,Clothing,478.86,445,Smith-Clark
+653,Self-enabling mobile database,Automotive,553.51,183,"Nelson, Sanchez and Ward"
+654,Virtual even-keeled process improvement,Toys,228.54,203,Livingston-Le
+655,Future-proofed transitional knowledgebase,Automotive,551.98,402,Villegas-Wilkins
+656,Devolved bandwidth-monitored access,Sports,906.68,117,"Bond, Riley and West"
+657,Monitored maximized instruction set,Books,629.07,455,Reynolds LLC
+658,Optional bandwidth-monitored hierarchy,Toys,979.89,443,Sanders-Martin
+659,Decentralized interactive challenge,Electronics,159.31,454,Palmer-Molina
+660,Exclusive multi-tasking product,Home & Garden,742.43,56,Wiggins-Thompson
+661,Networked optimal algorithm,Home & Garden,597.24,350,"Mendez, Norman and Lewis"
+662,Enterprise-wide multimedia functionalities,Sports,87.19,389,Hicks-Rivera
+663,Polarized tangible definition,Electronics,459.81,210,"Davis, Brown and Castro"
+664,Universal discrete flexibility,Automotive,939.59,382,Graham PLC
+665,Grass-roots composite Graphic Interface,Toys,521.17,388,Hughes Group
+666,Triple-buffered hybrid definition,Automotive,787.5,148,Dominguez-Mccullough
+667,Horizontal eco-centric help-desk,Toys,365.46,492,"Mendoza, Grimes and Olsen"
+668,Customizable user-facing matrix,Sports,57.7,283,Hill PLC
+669,Innovative empowering knowledge user,Electronics,636.07,364,Jimenez Inc
+670,Persistent dynamic capability,Electronics,596.02,60,Jenkins Group
+671,Switchable impactful hardware,Clothing,745.34,81,Riley-Ruiz
+672,Up-sized interactive toolset,Electronics,137.01,399,Lawson Ltd
+673,Focused eco-centric data-warehouse,Home & Garden,915.33,463,"Summers, Gonzalez and Hernandez"
+674,Organic national knowledgebase,Automotive,444.48,64,Martinez Inc
+675,Innovative web-enabled synergy,Electronics,195.42,454,Stephens Ltd
+676,Profound client-server synergy,Automotive,557.07,236,Mckenzie Ltd
+677,Managed needs-based help-desk,Books,729.16,89,"Hicks, Fernandez and Aguirre"
+678,Multi-tiered analyzing benchmark,Sports,132.38,244,"Shea, Jones and Davis"
+679,Customer-focused even-keeled infrastructure,Sports,830.37,118,"Perez, Cunningham and Lopez"
+680,Team-oriented disintermediate hierarchy,Automotive,193.29,308,"Banks, Long and Kaufman"
+681,Networked motivating architecture,Home & Garden,897.76,185,"Kim, Lopez and Taylor"
+682,Switchable radical toolset,Books,149.93,74,"Anderson, Fletcher and Chambers"
+683,Grass-roots bifurcated access,Automotive,573.98,373,Levy-Douglas
+684,Streamlined needs-based matrix,Electronics,518.15,186,Evans-Knox
+685,Vision-oriented object-oriented info-mediaries,Automotive,112.92,43,Davidson Group
+686,Synchronized contextually-based secured line,Automotive,37.99,95,"Thomas, Chen and Fritz"
+687,Focused mission-critical protocol,Sports,176.49,60,Jones Ltd
+688,User-centric zero administration function,Home & Garden,943.39,247,"Hess, Nelson and Long"
+689,Synergistic 3rdgeneration core,Automotive,758.89,175,"Cisneros, Patterson and Bryant"
+690,Function-based fault-tolerant concept,Electronics,297.78,80,Hines Inc
+691,Synergistic encompassing moderator,Sports,576.6,106,Lynch-Tyler
+692,Public-key context-sensitive toolset,Electronics,914.18,253,King-Marshall
+693,Profound dedicated matrix,Electronics,767.9,174,"Mccoy, Smith and Green"
+694,Organic national benchmark,Automotive,926.01,266,"Chapman, Johnson and Ramos"
+695,Synergistic bi-directional collaboration,Automotive,791.38,353,Richardson Group
+696,Fundamental upward-trending customer loyalty,Books,231.8,442,"Davis, Davis and Anderson"
+697,Quality-focused solution-oriented artificial intelligence,Home & Garden,857.79,3,Wilson and Sons
+698,Business-focused mission-critical interface,Home & Garden,479.02,94,Price Inc
+699,Exclusive full-range firmware,Home & Garden,340.08,296,Daugherty-Grant
+700,Distributed even-keeled extranet,Toys,496.48,400,"Melendez, Wagner and Clark"
+701,Programmable needs-based toolset,Books,180.73,270,Brown LLC
+702,Quality-focused regional Graphical User Interface,Books,870.27,486,"Bell, Montgomery and Jones"
+703,Self-enabling composite capability,Toys,660.58,373,Archer Ltd
+704,Multi-layered actuating data-warehouse,Sports,28.5,144,"Baldwin, Miller and Hicks"
+705,Pre-emptive user-facing leverage,Clothing,323.01,41,Caldwell Group
+706,Persevering client-server knowledgebase,Toys,902.06,111,Valdez PLC
+707,Enhanced bottom-line productivity,Books,390.8,157,"King, Watson and Brennan"
+708,Advanced maximized benchmark,Automotive,378.48,73,Trujillo and Sons
+709,Profound dedicated functionalities,Books,314.38,1,"Pace, Dixon and Sweeney"
+710,Monitored exuding encryption,Sports,940.41,164,Salazar-Pearson
+711,Up-sized composite data-warehouse,Clothing,681.61,374,Moore-Anthony
+712,Progressive grid-enabled help-desk,Automotive,894.66,384,Rowe-Woods
+713,Intuitive executive collaboration,Books,766.78,18,Davis-Robinson
+714,Front-line even-keeled solution,Home & Garden,58.5,112,Hughes Inc
+715,Object-based even-keeled ability,Electronics,719.09,369,Anderson-Smith
+716,Reverse-engineered discrete flexibility,Books,571.28,187,Lewis-Jackson
+717,Public-key dedicated product,Electronics,321.79,179,Berg-Bauer
+718,Enterprise-wide clear-thinking protocol,Automotive,336.22,365,Osborne Group
+719,Enhanced dedicated challenge,Clothing,418.38,411,"Silva, Davis and Schaefer"
+720,Open-architected non-volatile database,Electronics,485.12,296,"Lee, Ibarra and Horton"
+721,Exclusive hybrid access,Clothing,334.25,227,Williams-Harris
+722,Advanced intangible array,Automotive,819.21,236,Rose Ltd
+723,Progressive client-server workforce,Clothing,591.79,257,"Barnett, Wilson and King"
+724,User-centric content-based hierarchy,Books,65.2,139,Holt Ltd
+725,Decentralized directional capacity,Books,373.67,283,Jones-Ford
+726,Face-to-face multimedia installation,Automotive,569.65,359,Hall-Murray
+727,Automated bandwidth-monitored service-desk,Automotive,395.57,283,Morgan-Ward
+728,Realigned tertiary portal,Sports,708.86,76,Jensen Group
+729,Up-sized tertiary project,Books,518.76,94,Graham Ltd
+730,Re-engineered upward-trending solution,Clothing,555.68,436,"Gibson, Gonzales and Jones"
+731,Digitized holistic flexibility,Books,135.97,455,"Blankenship, Bell and Ray"
+732,Open-architected asymmetric encryption,Electronics,548.85,190,Ross-Knight
+733,Upgradable disintermediate matrices,Home & Garden,942.81,116,Dunlap-Smith
+734,Business-focused system-worthy neural-net,Electronics,375.49,261,Holmes Ltd
+735,Intuitive leadingedge moratorium,Home & Garden,630.45,172,Young-Gill
+736,Integrated high-level model,Sports,588.06,114,Moore-Rowe
+737,Down-sized directional strategy,Clothing,470.7,449,Hernandez PLC
+738,Operative eco-centric migration,Home & Garden,541.75,316,Taylor-Cole
+739,Synergistic value-added website,Sports,500.72,201,Rich-Lewis
+740,Multi-layered secondary software,Toys,892.36,488,Andersen-Roberson
+741,Future-proofed user-facing array,Clothing,685.88,473,Weaver LLC
+742,Open-architected non-volatile emulation,Automotive,152.82,22,Wilson-Webb
+743,Mandatory exuding policy,Home & Garden,290.83,39,"Adams, Sherman and Gonzalez"
+744,Down-sized holistic support,Electronics,259.95,447,Gonzalez Group
+745,Centralized bandwidth-monitored methodology,Toys,680.23,370,May-Nichols
+746,Future-proofed client-driven data-warehouse,Clothing,857.92,466,"Harvey, Coleman and Hoover"
+747,Compatible asynchronous functionalities,Automotive,357.97,196,"Francis, Barnett and Ingram"
+748,Optimized tertiary capability,Sports,971.55,161,Hendricks-Brown
+749,Visionary exuding throughput,Clothing,167.63,500,Williams Ltd
+750,Devolved multi-tasking methodology,Electronics,579.99,119,"Mahoney, Sharp and Hall"
+751,Polarized client-server implementation,Electronics,772.54,60,Russell-White
+752,Persevering responsive ability,Electronics,195.93,464,Harrell-Nguyen
+753,Team-oriented reciprocal archive,Sports,676.05,370,"Morgan, Scott and Sanchez"
+754,Public-key 5thgeneration emulation,Home & Garden,507.95,125,Villarreal-Mckinney
+755,Centralized fresh-thinking database,Electronics,254.64,484,Ray Ltd
+756,Focused radical open system,Home & Garden,525.22,69,Romero-Alexander
+757,Ameliorated object-oriented throughput,Home & Garden,408.98,204,"Ayala, Rogers and Sanchez"
+758,Proactive coherent parallelism,Automotive,890.44,168,Brown Ltd
+759,Customer-focused local analyzer,Clothing,353.36,398,Williams PLC
+760,Proactive context-sensitive Graphical User Interface,Toys,563.84,225,Houston-Harris
+761,User-centric transitional attitude,Books,511.72,476,"Brown, Hanna and Collins"
+762,Assimilated asynchronous success,Toys,417.44,43,Kelley-Garcia
+763,Optional systematic attitude,Toys,963.07,337,Stout LLC
+764,Self-enabling uniform toolset,Electronics,755.99,257,Wong-Harris
+765,Intuitive heuristic synergy,Home & Garden,138.71,94,Gonzales PLC
+766,Reduced tangible array,Home & Garden,762.01,148,Blair-Ward
+767,Expanded multimedia paradigm,Automotive,721.44,108,Wilson LLC
+768,Cross-platform even-keeled standardization,Books,77.73,53,Riley Group
+769,Realigned responsive matrices,Automotive,159.73,434,Orozco LLC
+770,Triple-buffered upward-trending pricing structure,Home & Garden,664.64,226,"Newman, Lewis and Le"
+771,Monitored cohesive solution,Sports,44.81,290,Ramirez-Lowe
+772,Operative fresh-thinking adapter,Electronics,804.27,283,Campbell PLC
+773,Cross-platform heuristic interface,Electronics,688.97,45,Craig LLC
+774,Grass-roots disintermediate migration,Toys,168.64,280,"Jones, Turner and Thomas"
+775,Universal holistic encryption,Books,702.58,195,Anderson and Sons
+776,Multi-lateral demand-driven archive,Electronics,706.65,285,Scott Inc
+777,Enterprise-wide system-worthy migration,Automotive,786.43,159,Silva-Holder
+778,Configurable coherent definition,Sports,467.83,321,Beck-Morris
+779,User-centric reciprocal Graphical User Interface,Clothing,321.93,155,"Stevens, Spencer and Burton"
+780,Focused full-range service-desk,Books,926.22,484,"Aguilar, Clay and Sullivan"
+781,Reactive full-range hardware,Toys,281.87,153,"Powers, Gutierrez and Evans"
+782,Cross-platform mission-critical complexity,Electronics,190.09,52,Diaz-Guzman
+783,Devolved client-server matrix,Sports,164.31,474,Stewart-Roberson
+784,Adaptive human-resource function,Books,337.34,309,Hubbard Ltd
+785,Adaptive neutral migration,Automotive,823.23,192,Gross LLC
+786,Polarized clear-thinking extranet,Sports,600.69,420,Miller Inc
+787,Persevering directional contingency,Home & Garden,130.72,116,Roberts-Williams
+788,Upgradable tangible leverage,Automotive,217.16,17,Boyle-Suarez
+789,Team-oriented mobile moratorium,Electronics,504.6,263,Lam-Macdonald
+790,Integrated web-enabled application,Home & Garden,237.2,284,"Stewart, Gilbert and Walsh"
+791,Front-line asynchronous core,Toys,975.11,436,Parks Group
+792,Face-to-face user-facing conglomeration,Books,459.94,479,Dunlap-Daniel
+793,Operative 24hour definition,Books,94.29,360,Orozco Group
+794,User-friendly zero tolerance utilization,Electronics,797.95,23,Singh-Rogers
+795,Exclusive even-keeled monitoring,Automotive,540.61,461,Buckley and Sons
+796,Self-enabling radical frame,Clothing,774.22,249,Moore Group
+797,Adaptive methodical productivity,Clothing,584.35,429,Contreras-Harris
+798,Pre-emptive local methodology,Home & Garden,838.78,341,"Fisher, Keller and Vasquez"
+799,Sharable object-oriented budgetary management,Electronics,404.12,243,Browning Group
+800,Assimilated fault-tolerant hierarchy,Automotive,307.91,171,Carpenter Inc
+801,Integrated heuristic toolset,Home & Garden,313.76,225,"Mullen, Guzman and Graves"
+802,Sharable client-driven website,Automotive,848.11,86,Short PLC
+803,Realigned motivating matrices,Clothing,412.53,115,"Villarreal, Herman and Lewis"
+804,Self-enabling multimedia paradigm,Books,30.49,117,"Graham, King and Davis"
+805,Face-to-face multimedia knowledge user,Books,657.3,71,"Washington, Paul and Jones"
+806,Ergonomic executive extranet,Toys,324.13,274,Allen Inc
+807,Versatile global concept,Books,28.82,187,"Lopez, Garcia and Watson"
+808,Versatile multi-state data-warehouse,Automotive,177.72,494,Woodard Inc
+809,Advanced impactful orchestration,Sports,861.6,418,Bryan-Garrett
+810,Reverse-engineered discrete policy,Automotive,494.04,406,"Clark, Clark and Miller"
+811,Ergonomic intangible neural-net,Electronics,669.23,241,Mcbride-Kramer
+812,Compatible bottom-line support,Toys,960.25,355,"Allen, Robbins and Hill"
+813,Robust eco-centric system engine,Home & Garden,600.8,13,"Barnes, Diaz and Hunter"
+814,Enhanced solution-oriented adapter,Sports,203.92,128,Mcclain PLC
+815,Horizontal composite focus group,Electronics,60.98,428,"Washington, Johnson and Foster"
+816,Profit-focused interactive frame,Sports,943.0,105,"Davis, Livingston and Chavez"
+817,Enterprise-wide executive time-frame,Books,976.45,161,Carr LLC
+818,Extended high-level installation,Clothing,321.16,435,Thomas-Wilson
+819,Front-line intangible product,Toys,667.52,82,Cannon PLC
+820,User-friendly responsive architecture,Home & Garden,272.87,5,Murphy-Murray
+821,Programmable attitude-oriented productivity,Sports,756.16,402,Perkins Group
+822,Front-line discrete website,Electronics,966.09,320,"Sanders, Greene and Rodriguez"
+823,Open-source 5thgeneration alliance,Home & Garden,604.71,423,"Ryan, Gonzalez and Lara"
+824,Profound tertiary definition,Toys,94.86,383,"Glass, Marquez and Patterson"
+825,Profit-focused multi-state complexity,Electronics,387.47,43,Erickson PLC
+826,Profit-focused scalable migration,Automotive,403.53,4,Bowen-Baker
+827,Focused modular Internet solution,Clothing,213.12,131,Lindsey Ltd
+828,Enhanced hybrid orchestration,Home & Garden,631.55,349,Saunders Ltd
+829,Re-contextualized object-oriented superstructure,Toys,539.16,266,Johnson and Sons
+830,Intuitive demand-driven projection,Automotive,683.23,338,Rice Ltd
+831,Configurable motivating task-force,Sports,75.92,182,Willis-Cummings
+832,Function-based 3rdgeneration pricing structure,Home & Garden,50.02,102,"Brooks, Foster and Hampton"
+833,Integrated background toolset,Automotive,960.89,69,Smith-Gray
+834,Re-contextualized bottom-line matrix,Electronics,923.63,101,"Love, Shepard and Cook"
+835,Realigned web-enabled benchmark,Home & Garden,226.5,305,"Allen, Harding and Randall"
+836,Adaptive multi-tasking methodology,Books,938.99,88,Velez-Hughes
+837,Cloned regional portal,Books,833.02,441,Johnson PLC
+838,Reduced system-worthy Internet solution,Clothing,713.74,192,"Guerrero, Mcneil and Rivera"
+839,Customizable solution-oriented structure,Toys,170.54,437,Spencer-Sanford
+840,Open-architected homogeneous concept,Clothing,561.18,453,"Jackson, Berry and Campbell"
+841,Sharable content-based benchmark,Sports,488.53,77,Johnson Group
+842,Cloned coherent challenge,Clothing,742.85,495,Turner Group
+843,Managed intermediate protocol,Books,712.7,437,Woods-Wilkerson
+844,Face-to-face background extranet,Books,952.09,207,Stevenson-Sandoval
+845,Phased human-resource website,Home & Garden,519.79,169,Brown Inc
+846,Multi-channeled coherent open architecture,Clothing,50.21,67,Brown-Russell
+847,Cross-group impactful attitude,Sports,44.19,364,"Hamilton, Moore and Miller"
+848,Polarized global approach,Sports,969.85,262,"Bowman, Cantu and Elliott"
+849,Reduced asymmetric interface,Automotive,354.98,260,Petty Inc
+850,Organic multi-state success,Automotive,674.65,429,"Wyatt, Stevens and Jones"
+851,Front-line context-sensitive workforce,Toys,53.51,436,Wright-Kim
+852,Open-architected discrete Graphic Interface,Home & Garden,815.9,387,"Mccarthy, Riggs and Ortiz"
+853,Robust disintermediate artificial intelligence,Clothing,683.05,86,Gutierrez Inc
+854,Cloned stable matrices,Clothing,775.92,353,Myers PLC
+855,Organic bottom-line open system,Automotive,914.71,197,"Greer, Anderson and Romero"
+856,Ameliorated solution-oriented matrices,Electronics,25.93,184,Potts-Scott
+857,Mandatory asymmetric installation,Books,652.41,484,Trujillo-Johnson
+858,Universal scalable system engine,Clothing,696.94,3,"Evans, Bryant and Meadows"
+859,Total methodical leverage,Toys,216.96,208,Kirk-Grant
+860,Secured bottom-line alliance,Books,515.26,81,"Nelson, Parks and Tucker"
+861,Profit-focused incremental capability,Clothing,425.86,13,"Campbell, Gross and Hess"
+862,Synergistic global archive,Clothing,795.11,371,"Poole, Santos and Riley"
+863,Expanded radical workforce,Toys,186.82,12,Marks-Berger
+864,Synergized client-driven hierarchy,Home & Garden,69.02,38,Lopez-Robbins
+865,Extended attitude-oriented neural-net,Clothing,779.93,114,Cruz-Willis
+866,Realigned methodical core,Toys,973.2,460,Norris Ltd
+867,Team-oriented logistical extranet,Toys,878.58,304,Snow LLC
+868,Mandatory needs-based projection,Electronics,338.06,113,Coleman Group
+869,Realigned human-resource emulation,Toys,360.18,143,Dunn Inc
+870,Universal solution-oriented synergy,Clothing,621.54,490,Lawrence Ltd
+871,Triple-buffered tertiary solution,Toys,310.39,306,"Jones, Freeman and Williams"
+872,Inverse grid-enabled success,Clothing,451.73,277,"Whitney, Velez and Summers"
+873,Right-sized zero tolerance archive,Automotive,631.27,499,Cisneros Group
+874,Progressive optimal structure,Sports,732.51,85,"Travis, Strong and Klein"
+875,Grass-roots hybrid knowledge user,Sports,688.29,129,"King, Chavez and Rodriguez"
+876,Organized client-driven project,Automotive,153.45,451,"Evans, Jackson and Mcdowell"
+877,Adaptive next generation orchestration,Electronics,425.31,28,"Gonzalez, Young and Ross"
+878,Team-oriented secondary archive,Toys,159.24,109,Greene-Burch
+879,Cross-group empowering conglomeration,Electronics,99.72,290,Thompson-Kelly
+880,Innovative radical task-force,Home & Garden,135.38,284,Wilson and Sons
+881,Operative solution-oriented matrices,Automotive,518.16,368,Melendez-Ross
+882,Right-sized 24hour open system,Electronics,587.95,158,Williams and Sons
+883,Multi-tiered disintermediate conglomeration,Clothing,558.31,342,Daniel Ltd
+884,Balanced non-volatile toolset,Sports,219.29,151,Ayala-Harvey
+885,Organized multi-tasking methodology,Books,91.74,427,Snyder-Case
+886,Organic 6thgeneration open system,Home & Garden,885.17,344,Thompson-Davis
+887,Programmable fresh-thinking initiative,Automotive,692.29,213,Duran-Jackson
+888,Streamlined mission-critical success,Toys,782.65,177,"Paul, Fuller and Vance"
+889,Secured multi-tasking analyzer,Sports,39.0,348,"Lee, Blake and Delgado"
+890,Devolved discrete strategy,Clothing,886.82,313,Oconnell and Sons
+891,Ameliorated 4thgeneration collaboration,Electronics,66.57,206,Nelson Group
+892,Front-line real-time artificial intelligence,Sports,448.49,317,"Johnson, Brown and Smith"
+893,Devolved directional complexity,Books,609.58,49,Wheeler PLC
+894,Multi-channeled high-level encoding,Sports,334.57,376,Smith-Taylor
+895,Persevering contextually-based focus group,Home & Garden,641.97,474,Blankenship-Schultz
+896,Integrated web-enabled array,Home & Garden,298.32,16,Davis and Sons
+897,Synergized multi-tasking leverage,Automotive,229.04,205,White-Johnson
+898,Future-proofed leadingedge contingency,Home & Garden,898.39,451,"Garcia, Romero and Smith"
+899,Balanced reciprocal time-frame,Sports,711.36,329,"Rivas, Cooley and Kelly"
+900,Public-key 3rdgeneration orchestration,Sports,445.71,200,"Salazar, Le and Wilson"
+901,Front-line methodical application,Electronics,927.38,205,Harmon-Bonilla
+902,Customizable multi-tasking functionalities,Books,700.71,343,"Ayala, Becker and Oconnell"
+903,Pre-emptive stable data-warehouse,Toys,363.05,63,Anderson-Arnold
+904,Phased local collaboration,Electronics,674.6,195,"Graham, Luna and Valencia"
+905,Optimized analyzing database,Sports,406.26,173,Brown-Mcpherson
+906,Optimized executive extranet,Sports,138.47,92,"Olsen, Bruce and Webb"
+907,Focused 24/7 moratorium,Sports,278.7,211,Gardner-Davis
+908,Multi-lateral attitude-oriented conglomeration,Books,501.69,70,"Santos, Freeman and Walters"
+909,De-engineered eco-centric interface,Toys,907.61,74,Brown Ltd
+910,Proactive discrete instruction set,Home & Garden,278.68,308,Miller-Russo
+911,Inverse non-volatile monitoring,Automotive,555.93,215,"Werner, Thomas and Johnson"
+912,Horizontal didactic matrices,Home & Garden,404.65,7,"Brooks, House and Brown"
+913,Exclusive zero tolerance policy,Books,268.08,380,Ross and Sons
+914,Automated dedicated model,Electronics,725.64,432,"Davila, Green and Stevens"
+915,Multi-channeled incremental utilization,Home & Garden,431.92,208,Smith-Taylor
+916,Monitored motivating support,Sports,102.48,461,"Maddox, Lynn and Herrera"
+917,Networked systemic concept,Electronics,768.49,333,"Garcia, Johnson and Webster"
+918,Versatile 3rdgeneration framework,Home & Garden,987.06,187,Gonzalez LLC
+919,Seamless 3rdgeneration website,Toys,835.86,464,"Huber, Bell and Booth"
+920,Self-enabling multimedia focus group,Home & Garden,610.15,462,Patterson and Sons
+921,Up-sized attitude-oriented conglomeration,Electronics,37.53,438,"Bell, Bush and Chen"
+922,Open-architected scalable data-warehouse,Automotive,698.42,446,Bell-Braun
+923,Virtual attitude-oriented help-desk,Home & Garden,981.02,140,Meyer-Jarvis
+924,Virtual upward-trending monitoring,Electronics,782.71,436,"Elliott, Sims and Holland"
+925,Cross-group dynamic moratorium,Home & Garden,223.6,117,Andrews-Rowland
+926,Devolved grid-enabled support,Sports,222.53,322,Gonzalez PLC
+927,Automated 4thgeneration focus group,Toys,276.25,179,"Chavez, Johnson and Wright"
+928,User-friendly 4thgeneration archive,Sports,886.34,380,Le Group
+929,Programmable executive data-warehouse,Sports,611.52,382,"Flynn, Rose and Harris"
+930,Organized fault-tolerant task-force,Toys,314.53,37,Scott Group
+931,Reactive analyzing collaboration,Electronics,711.24,93,Adams-Webb
+932,Centralized mission-critical instruction set,Books,812.35,394,Smith Group
+933,Multi-channeled scalable hierarchy,Books,348.72,72,"Curry, Kelly and Robertson"
+934,Phased needs-based structure,Sports,169.27,214,"Smith, May and Miller"
+935,Multi-tiered systemic attitude,Toys,951.89,39,Johnston PLC
+936,Cross-platform web-enabled instruction set,Electronics,223.22,32,Leach PLC
+937,Focused impactful complexity,Clothing,598.54,430,"Aguilar, Harris and Bell"
+938,Upgradable executive standardization,Books,126.2,33,Holmes LLC
+939,Organized secondary array,Toys,169.96,343,"Cordova, Andrews and Griffin"
+940,Reverse-engineered 24/7 core,Clothing,206.38,88,"Robertson, Manning and Trujillo"
+941,Organic demand-driven frame,Books,329.39,81,Espinoza-Phillips
+942,Distributed dedicated budgetary management,Clothing,244.92,149,Moore-Rodriguez
+943,Advanced interactive knowledge user,Automotive,801.56,323,Cox-Davis
+944,Secured multi-state utilization,Automotive,58.57,39,Bowers-Parsons
+945,Right-sized 4thgeneration initiative,Automotive,175.06,402,"Mckenzie, Tapia and Anderson"
+946,Reverse-engineered global ability,Electronics,96.7,114,Williams Group
+947,Fundamental 3rdgeneration database,Toys,102.94,450,"Wyatt, Caldwell and Evans"
+948,Reactive didactic forecast,Books,439.28,251,"Meyer, Gardner and Roberson"
+949,Realigned needs-based Graphic Interface,Toys,710.7,123,Wilson-Mckenzie
+950,Grass-roots client-server functionalities,Books,946.65,372,Oliver Ltd
+951,Devolved transitional Local Area Network,Books,90.22,262,"Curtis, Davis and Yoder"
+952,Quality-focused 24hour projection,Books,529.15,467,Pace Inc
+953,Multi-lateral web-enabled instruction set,Automotive,345.84,190,"Reed, Russo and Snyder"
+954,Reduced coherent frame,Sports,491.81,366,Lopez-Doyle
+955,Down-sized holistic standardization,Books,826.15,452,"Doyle, Marsh and Walker"
+956,Extended global project,Automotive,935.33,240,Holland and Sons
+957,Public-key asynchronous data-warehouse,Home & Garden,946.2,457,Anderson Group
+958,Streamlined intermediate process improvement,Sports,194.41,219,Brooks LLC
+959,Streamlined neutral access,Toys,682.5,6,Brown Ltd
+960,Profound interactive concept,Sports,822.5,284,Davis-Ballard
+961,Multi-channeled empowering ability,Automotive,855.92,156,"Garcia, Olsen and Berry"
+962,Re-contextualized systematic customer loyalty,Toys,717.37,464,Juarez-Johnson
+963,Inverse content-based customer loyalty,Home & Garden,651.01,183,Davis PLC
+964,Enhanced homogeneous infrastructure,Sports,237.14,211,Mcclure-Fields
+965,Reduced mobile projection,Home & Garden,627.22,472,Mckenzie Group
+966,Down-sized regional Graphical User Interface,Sports,771.44,54,"Davidson, Stewart and Gutierrez"
+967,Reduced mission-critical implementation,Automotive,55.89,112,Ferguson Inc
+968,Advanced client-driven groupware,Home & Garden,640.7,411,Thompson Group
+969,Down-sized global protocol,Clothing,796.35,9,Shaw Group
+970,Future-proofed full-range concept,Home & Garden,659.76,267,House-Baker
+971,Robust next generation architecture,Electronics,814.04,9,Hall Inc
+972,Quality-focused global help-desk,Automotive,548.07,234,Higgins-Johnson
+973,Profit-focused fresh-thinking info-mediaries,Automotive,32.58,314,Patterson-Ramirez
+974,Optimized user-facing data-warehouse,Sports,795.49,308,"Young, Leonard and Flowers"
+975,Programmable scalable neural-net,Automotive,755.4,82,Villarreal-Gray
+976,Centralized non-volatile artificial intelligence,Toys,152.95,449,"Harris, Martinez and Mcgrath"
+977,Enterprise-wide value-added strategy,Home & Garden,734.85,255,"Smith, Odom and Gutierrez"
+978,Re-contextualized zero tolerance help-desk,Clothing,163.35,447,"Barber, Smith and Cooper"
+979,Cross-platform context-sensitive access,Clothing,963.92,257,Wyatt LLC
+980,Phased web-enabled approach,Automotive,489.75,211,"Guzman, Mooney and Nguyen"
+981,Face-to-face dynamic data-warehouse,Home & Garden,206.64,196,Johns PLC
+982,Profit-focused object-oriented protocol,Sports,349.19,285,Morales-King
+983,Re-contextualized well-modulated definition,Home & Garden,739.03,246,"Wilson, Ellis and Hill"
+984,Compatible interactive support,Toys,298.33,283,"Thompson, Logan and Wilson"
+985,Automated fresh-thinking collaboration,Home & Garden,645.25,436,"Ashley, Campbell and Montoya"
+986,Streamlined 3rdgeneration archive,Sports,315.3,38,Camacho Inc
+987,Optimized didactic challenge,Home & Garden,891.34,246,Chang Group
+988,Multi-layered directional strategy,Sports,91.08,380,Howell Group
+989,Upgradable clear-thinking solution,Sports,576.39,92,Thomas PLC
+990,Persevering empowering database,Books,710.48,220,Brown and Sons
+991,Right-sized reciprocal software,Electronics,573.79,49,Powell-Lozano
+992,Face-to-face content-based customer loyalty,Automotive,987.44,26,Smith-Rogers
+993,Digitized heuristic forecast,Sports,53.45,174,Schwartz-Hill
+994,Open-source client-driven monitoring,Sports,179.21,222,"White, Martinez and Gallegos"
+995,Enterprise-wide scalable portal,Toys,39.33,433,Miller Group
+996,Cross-group mobile toolset,Toys,223.57,288,"Russell, Jones and Baker"
+997,Cloned clear-thinking neural-net,Clothing,407.43,264,"Sullivan, Obrien and Hernandez"
+998,Up-sized system-worthy system engine,Electronics,830.75,294,"Frost, Bean and Garcia"
+999,Reduced disintermediate capability,Toys,765.79,317,Smith-Martinez
+1000,Reactive user-facing interface,Home & Garden,487.97,72,Gilbert and Sons

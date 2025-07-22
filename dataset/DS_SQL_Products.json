@@ -1,0 +1,45 @@
+{
+	"name": "DS_SQL_Products",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "LS_AzureSQL_CustomerProduct",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "AzureSqlTable",
+		"schema": [
+			{
+				"name": "product_id",
+				"type": "smallint",
+				"precision": 5
+			},
+			{
+				"name": "product_name",
+				"type": "varchar"
+			},
+			{
+				"name": "category",
+				"type": "varchar"
+			},
+			{
+				"name": "price",
+				"type": "float",
+				"precision": 15
+			},
+			{
+				"name": "stock_quantity",
+				"type": "smallint",
+				"precision": 5
+			},
+			{
+				"name": "supplier",
+				"type": "varchar"
+			}
+		],
+		"typeProperties": {
+			"schema": "dbo",
+			"table": "product_data_final"
+		}
+	},
+	"type": "Microsoft.DataFactory/factories/datasets"
+}

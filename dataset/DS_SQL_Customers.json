@@ -1,0 +1,51 @@
+{
+	"name": "DS_SQL_Customers",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "LS_AzureSQL_CustomerProduct",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "AzureSqlTable",
+		"schema": [
+			{
+				"name": "customer_id",
+				"type": "smallint",
+				"precision": 5
+			},
+			{
+				"name": "first_name",
+				"type": "varchar"
+			},
+			{
+				"name": "last_name",
+				"type": "varchar"
+			},
+			{
+				"name": "email",
+				"type": "varchar"
+			},
+			{
+				"name": "phone",
+				"type": "varchar"
+			},
+			{
+				"name": "address",
+				"type": "varchar"
+			},
+			{
+				"name": "city",
+				"type": "varchar"
+			},
+			{
+				"name": "country",
+				"type": "varchar"
+			}
+		],
+		"typeProperties": {
+			"schema": "dbo",
+			"table": "customer_data_final"
+		}
+	},
+	"type": "Microsoft.DataFactory/factories/datasets"
+}

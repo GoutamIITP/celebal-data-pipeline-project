@@ -1,0 +1,150 @@
+{
+	"name": "PL_Customer_Data_Copy_Parent",
+	"properties": {
+		"activities": [
+			{
+				"name": "GetCustomerCount",
+				"description": "Get total customer count from database",
+				"type": "Lookup",
+				"dependsOn": [],
+				"policy": {
+					"timeout": "0.12:00:00",
+					"retry": 0,
+					"retryIntervalInSeconds": 30,
+					"secureOutput": false,
+					"secureInput": false
+				},
+				"userProperties": [],
+				"typeProperties": {
+					"source": {
+						"type": "AzureSqlSource",
+						"sqlReaderQuery": "SELECT COUNT(*) as customer_count FROM customer_data_final",
+						"queryTimeout": "02:00:00",
+						"partitionOption": "None"
+					},
+					"dataset": {
+						"referenceName": "DS_SQL_Customers",
+						"type": "DatasetReference"
+					}
+				}
+			},
+			{
+				"name": "CheckCustomerCount",
+				"description": "Check if customer count > 500",
+				"type": "IfCondition",
+				"dependsOn": [
+					{
+						"activity": "GetCustomerCount",
+						"dependencyConditions": [
+							"Succeeded"
+						]
+					}
+				],
+				"userProperties": [],
+				"typeProperties": {
+					"expression": {
+						"value": "@greater(activity('GetCustomerCount').output.firstRow.customer_count, 500)",
+						"type": "Expression"
+					},
+					"ifTrueActivities": [
+						{
+							"name": "CopyCustomerData",
+							"description": "Copy customer data from SQL to ADLS\n\n\n",
+							"type": "Copy",
+							"dependsOn": [],
+							"policy": {
+								"timeout": "0.12:00:00",
+								"retry": 0,
+								"retryIntervalInSeconds": 30,
+								"secureOutput": false,
+								"secureInput": false
+							},
+							"userProperties": [],
+							"typeProperties": {
+								"source": {
+									"type": "AzureSqlSource",
+									"queryTimeout": "02:00:00",
+									"partitionOption": "None"
+								},
+								"sink": {
+									"type": "ParquetSink",
+									"storeSettings": {
+										"type": "AzureBlobFSWriteSettings"
+									},
+									"formatSettings": {
+										"type": "ParquetWriteSettings"
+									}
+								},
+								"enableStaging": false,
+								"translator": {
+									"type": "TabularTranslator",
+									"typeConversion": true,
+									"typeConversionSettings": {
+										"allowDataTruncation": true,
+										"treatBooleanAsNumber": false
+									}
+								}
+							},
+							"inputs": [
+								{
+									"referenceName": "DS_SQL_Customers",
+									"type": "DatasetReference"
+								}
+							],
+							"outputs": [
+								{
+									"referenceName": "DS_ADLS_Customers",
+									"type": "DatasetReference"
+								}
+							]
+						},
+						{
+							"name": "ExecuteProductPipeline",
+							"description": "Call child pipeline with customer count",
+							"type": "ExecutePipeline",
+							"dependsOn": [
+								{
+									"activity": "CopyCustomerData",
+									"dependencyConditions": [
+										"Succeeded"
+									]
+								}
+							],
+							"policy": {
+								"secureInput": false
+							},
+							"userProperties": [
+								{
+									"name": "CustomerCount",
+									"value": "@activity('GetCustomerCount').output.firstRow.customer_count"
+								}
+							],
+							"typeProperties": {
+								"pipeline": {
+									"referenceName": "PL_Product_Data_Copy_Child",
+									"type": "PipelineReference"
+								},
+								"waitOnCompletion": true,
+								"parameters": {
+									"CustomerCount": {
+										"value": "@activity('GetCustomerCount').output.firstRow.customer_count",
+										"type": "Expression"
+									}
+								}
+							}
+						}
+					]
+				}
+			}
+		],
+		"parameters": {
+			"CustomerCount": {
+				"type": "int",
+				"defaultValue": 0
+			}
+		},
+		"annotations": [],
+		"lastPublishTime": "2025-07-22T15:57:39Z"
+	},
+	"type": "Microsoft.DataFactory/factories/pipelines"
+}

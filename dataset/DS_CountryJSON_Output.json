@@ -1,0 +1,24 @@
+{
+	"name": "DS_CountryJSON_Output",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "LS_ADLS_DataLake",
+			"type": "LinkedServiceReference"
+		},
+		"parameters": {
+			"filename": {
+				"type": "string"
+			}
+		},
+		"annotations": [],
+		"type": "Json",
+		"typeProperties": {
+			"location": {
+				"type": "AzureBlobFSLocation",
+				"fileSystem": "countries-data"
+			}
+		},
+		"schema": {}
+	},
+	"type": "Microsoft.DataFactory/factories/datasets"
+}

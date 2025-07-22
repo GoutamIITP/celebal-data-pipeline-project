@@ -1,0 +1,90 @@
+{
+	"name": "PL_FetchCountriesData",
+	"properties": {
+		"activities": [
+			{
+				"name": "ForEach_Country",
+				"type": "ForEach",
+				"dependsOn": [],
+				"userProperties": [],
+				"typeProperties": {
+					"items": {
+						"value": "@createArray('india','us','uk','china','russia')\n",
+						"type": "Expression"
+					},
+					"isSequential": true,
+					"activities": [
+						{
+							"name": "Copy_CountryData",
+							"type": "Copy",
+							"dependsOn": [],
+							"policy": {
+								"timeout": "0.12:00:00",
+								"retry": 0,
+								"retryIntervalInSeconds": 30,
+								"secureOutput": false,
+								"secureInput": false
+							},
+							"userProperties": [
+								{
+									"name": "Source",
+									"value": "@{'relativeUrl = @item()\n'}"
+								},
+								{
+									"name": "Destination",
+									"value": "countries-data//"
+								}
+							],
+							"typeProperties": {
+								"source": {
+									"type": "JsonSource",
+									"storeSettings": {
+										"type": "HttpReadSettings",
+										"requestMethod": "GET"
+									},
+									"formatSettings": {
+										"type": "JsonReadSettings"
+									}
+								},
+								"sink": {
+									"type": "JsonSink",
+									"storeSettings": {
+										"type": "AzureBlobFSWriteSettings"
+									},
+									"formatSettings": {
+										"type": "JsonWriteSettings"
+									}
+								},
+								"enableStaging": false
+							},
+							"inputs": [
+								{
+									"referenceName": "DS_CountryAPI",
+									"type": "DatasetReference",
+									"parameters": {
+										"relativeUrl": {
+											"value": "@item()\n",
+											"type": "Expression"
+										}
+									}
+								}
+							],
+							"outputs": [
+								{
+									"referenceName": "DS_CountryJSON_Output",
+									"type": "DatasetReference",
+									"parameters": {
+										"filename": "@item()"
+									}
+								}
+							]
+						}
+					]
+				}
+			}
+		],
+		"annotations": [],
+		"lastPublishTime": "2025-07-21T17:26:43Z"
+	},
+	"type": "Microsoft.DataFactory/factories/pipelines"
+}

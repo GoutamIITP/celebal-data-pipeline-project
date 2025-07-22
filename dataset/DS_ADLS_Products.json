@@ -1,0 +1,22 @@
+{
+	"name": "DS_ADLS_Products",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "LS_ADLS_CustomerProduct",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "Parquet",
+		"typeProperties": {
+			"location": {
+				"type": "AzureBlobFSLocation",
+				"fileName": "product_data.parquet",
+				"folderPath": "products",
+				"fileSystem": "product-data"
+			},
+			"compressionCodec": "snappy"
+		},
+		"schema": []
+	},
+	"type": "Microsoft.DataFactory/factories/datasets"
+}

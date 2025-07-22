@@ -1,0 +1,103 @@
+{
+	"name": "PL_Product_Data_Copy_Child",
+	"properties": {
+		"activities": [
+			{
+				"name": "CheckCustomerCountForProducts",
+				"description": "Check if customer count > 600\n\n\n",
+				"type": "IfCondition",
+				"dependsOn": [],
+				"userProperties": [],
+				"typeProperties": {
+					"expression": {
+						"value": "@greater(pipeline().parameters.CustomerCount, 600)",
+						"type": "Expression"
+					},
+					"ifFalseActivities": [
+						{
+							"name": "LogSkippedExecution",
+							"type": "SetVariable",
+							"dependsOn": [],
+							"policy": {
+								"secureOutput": false,
+								"secureInput": false
+							},
+							"userProperties": [],
+							"typeProperties": {
+								"variableName": "message",
+								"value": "Customer count is ≤ 600, skipping product copy"
+							}
+						}
+					],
+					"ifTrueActivities": [
+						{
+							"name": "CopyProductData",
+							"description": " Copy product data from SQL to ADLS\n\n\n",
+							"type": "Copy",
+							"dependsOn": [],
+							"policy": {
+								"timeout": "0.12:00:00",
+								"retry": 0,
+								"retryIntervalInSeconds": 30,
+								"secureOutput": false,
+								"secureInput": false
+							},
+							"userProperties": [],
+							"typeProperties": {
+								"source": {
+									"type": "AzureSqlSource",
+									"queryTimeout": "02:00:00",
+									"partitionOption": "None"
+								},
+								"sink": {
+									"type": "ParquetSink",
+									"storeSettings": {
+										"type": "AzureBlobFSWriteSettings"
+									},
+									"formatSettings": {
+										"type": "ParquetWriteSettings"
+									}
+								},
+								"enableStaging": false,
+								"translator": {
+									"type": "TabularTranslator",
+									"typeConversion": true,
+									"typeConversionSettings": {
+										"allowDataTruncation": true,
+										"treatBooleanAsNumber": false
+									}
+								}
+							},
+							"inputs": [
+								{
+									"referenceName": "DS_SQL_Products",
+									"type": "DatasetReference"
+								}
+							],
+							"outputs": [
+								{
+									"referenceName": "DS_ADLS_Products",
+									"type": "DatasetReference"
+								}
+							]
+						}
+					]
+				}
+			}
+		],
+		"parameters": {
+			"CustomerCount": {
+				"type": "int",
+				"defaultValue": 0
+			}
+		},
+		"variables": {
+			"message": {
+				"type": "String"
+			}
+		},
+		"annotations": [],
+		"lastPublishTime": "2025-07-22T15:57:39Z"
+	},
+	"type": "Microsoft.DataFactory/factories/pipelines"
+}
